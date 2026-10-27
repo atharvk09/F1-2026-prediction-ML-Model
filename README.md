@@ -46,16 +46,14 @@ Instead of chasing a "perfect" accuracy score, I focused on **Rigorous Validatio
 **Austin GP Validation:**
 ```text
 🔮 PREDICTION (Pre-Race):
-1st Place: NOR (McLaren) - 42.5% 
-2nd Place: VER (Red Bull) - 31.2%
-3rd Place: PIA (McLaren) - 18.3%
+1st Place: Andrea Kimi Antonelli (Mercedes) - 12.5% Score
+2nd Place: Max Verstappen (Red Bull) - 12.5% Score
+3rd Place: Isack Hadjar (Red Bull) - 9.0% Score
 
 ✅ ACTUAL RESULT:
-1st Place: NOR (McLaren) 🏆
-2nd Place: VER (Red Bull)
-3rd Place: PIA (McLaren)
+1st Place: Andrea Kimi Antonelli (Mercedes) 🏆
 ---------------------------------------
-Result: PERFECT PODIUM PREDICTION 🎯
+Result: CORRECT WINNER PREDICTION 🎯
 ```
 
 ### Visual Evidence:
