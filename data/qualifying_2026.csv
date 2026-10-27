@@ -1,0 +1,370 @@
+DriverId,FullName,TeamName,Year,Round,EventName,QualifyingPosition,Q1,Q2,Q3,BestQualiTimeSeconds,QualiGapPct,QualiMissing
+russell,George Russell,Mercedes,2026,1,Australian Grand Prix,1,1:19.507,1:18.934,1:18.518,78.518,0.0,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,1,Australian Grand Prix,2,1:20.120,1:19.435,1:18.811,78.811,0.3731628416414168,0
+hadjar,Isack Hadjar,Red Bull,2026,1,Australian Grand Prix,3,1:20.023,1:19.653,1:19.303,79.303,0.9997707532030775,0
+leclerc,Charles Leclerc,Ferrari,2026,1,Australian Grand Prix,4,1:20.226,1:19.357,1:19.327,79.327,1.0303369927914696,0
+piastri,Oscar Piastri,McLaren,2026,1,Australian Grand Prix,5,1:19.664,1:19.525,1:19.380,79.38,1.0978374385491207,0
+norris,Lando Norris,McLaren,2026,1,Australian Grand Prix,6,1:20.010,1:19.882,1:19.475,79.475,1.2188288035864359,0
+hamilton,Lewis Hamilton,Ferrari,2026,1,Australian Grand Prix,7,1:19.811,1:19.921,1:19.478,79.47800000000001,1.222649583534996,0
+lawson,Liam Lawson,RB F1 Team,2026,1,Australian Grand Prix,8,1:20.491,1:20.144,1:19.994,79.994,1.8798237346850488,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,1,Australian Grand Prix,9,1:20.409,1:19.971,1:21.247,79.971,1.8505310884128434,0
+bortoleto,Gabriel Bortoleto,Audi,2026,1,Australian Grand Prix,10,1:20.495,1:20.221,,80.221,2.1689294174584317,0
+hulkenberg,Nico Hülkenberg,Audi,2026,1,Australian Grand Prix,11,1:21.024,1:20.303,,80.303,2.273364069385364,0
+bearman,Oliver Bearman,Haas F1 Team,2026,1,Australian Grand Prix,12,1:21.247,1:20.311,,80.311,2.2835528159148355,0
+ocon,Esteban Ocon,Haas F1 Team,2026,1,Australian Grand Prix,13,1:20.759,1:20.491,,80.491,2.512799612827621,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,1,Australian Grand Prix,14,1:21.138,1:20.501,,80.501,2.5255355459894657,0
+albon,Alexander Albon,Williams,2026,1,Australian Grand Prix,15,1:21.051,1:20.941,,80.941,3.085916605109662,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,1,Australian Grand Prix,16,1:21.200,1:21.270,,81.2,3.415777274000864,0
+alonso,Fernando Alonso,Aston Martin,2026,1,Australian Grand Prix,17,1:21.969,,,81.969,4.395170534145021,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,1,Australian Grand Prix,18,1:22.605,,,82.605,5.205175883236968,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,1,Australian Grand Prix,19,1:23.244,,,83.244,6.01900201227743,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,2,Chinese Grand Prix,1,1:33.305,1:32.443,1:32.064,92.064,0.0,0
+russell,George Russell,Mercedes,2026,2,Chinese Grand Prix,2,1:33.262,1:32.523,1:32.286,92.286,0.24113660062565767,0
+hamilton,Lewis Hamilton,Ferrari,2026,2,Chinese Grand Prix,3,1:33.522,1:32.567,1:32.415,92.41499999999999,0.3812565172054194,0
+leclerc,Charles Leclerc,Ferrari,2026,2,Chinese Grand Prix,4,1:33.175,1:32.486,1:32.428,92.428,0.39537712895376664,0
+piastri,Oscar Piastri,McLaren,2026,2,Chinese Grand Prix,5,1:33.590,1:33.130,1:32.550,92.55,0.5278936392075106,0
+norris,Lando Norris,McLaren,2026,2,Chinese Grand Prix,6,1:33.535,1:32.910,1:32.608,92.608,0.590893291623229,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,2,Chinese Grand Prix,7,1:33.788,1:33.003,1:32.873,92.87299999999999,0.8787365311087925,0
+max_verstappen,Max Verstappen,Red Bull,2026,2,Chinese Grand Prix,8,1:33.417,1:33.098,1:33.002,93.00200000000001,1.0188564476885764,0
+hadjar,Isack Hadjar,Red Bull,2026,2,Chinese Grand Prix,9,1:33.632,1:33.352,1:33.121,93.12100000000001,1.1481143552311668,0
+bearman,Oliver Bearman,Haas F1 Team,2026,2,Chinese Grand Prix,10,1:33.687,1:33.197,1:33.292,93.197,1.230665623913807,0
+hulkenberg,Nico Hülkenberg,Audi,2026,2,Chinese Grand Prix,11,1:34.116,1:33.354,,93.354,1.4011991657977063,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,2,Chinese Grand Prix,12,1:33.634,1:33.357,,93.357,1.40445776850886,0
+ocon,Esteban Ocon,Haas F1 Team,2026,2,Chinese Grand Prix,13,1:33.974,1:33.538,,93.538,1.6010601320820328,0
+lawson,Liam Lawson,RB F1 Team,2026,2,Chinese Grand Prix,14,1:34.139,1:33.765,,93.765,1.8476277372262873,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,2,Chinese Grand Prix,15,1:33.906,1:33.784,,93.78399999999999,1.8682655543969418,0
+bortoleto,Gabriel Bortoleto,Audi,2026,2,Chinese Grand Prix,16,1:33.549,1:33.965,,93.549,1.613008342022959,0
+sainz,Carlos Sainz,Williams,2026,2,Chinese Grand Prix,17,1:34.317,,,94.31700000000001,2.4472106360792667,0
+albon,Alexander Albon,Williams,2026,2,Chinese Grand Prix,18,1:34.772,,,94.77199999999999,2.941432047271464,0
+alonso,Fernando Alonso,Aston Martin,2026,2,Chinese Grand Prix,19,1:35.203,,,95.203,3.409584636774432,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,2,Chinese Grand Prix,20,1:35.436,,,95.436,3.6626694473409938,0
+stroll,Lance Stroll,Aston Martin,2026,2,Chinese Grand Prix,21,1:35.995,,,95.995,4.269855752519991,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,2,Chinese Grand Prix,22,1:36.906,,,96.906,5.25938477580814,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,3,Japanese Grand Prix,1,1:30.035,1:29.048,1:28.778,88.77799999999999,0.0,0
+russell,George Russell,Mercedes,2026,3,Japanese Grand Prix,2,1:29.967,1:29.686,1:29.076,89.076,0.335668746761586,0
+piastri,Oscar Piastri,McLaren,2026,3,Japanese Grand Prix,3,1:30.200,1:29.451,1:29.132,89.132,0.39874743742820407,0
+leclerc,Charles Leclerc,Ferrari,2026,3,Japanese Grand Prix,4,1:29.915,1:29.303,1:29.405,89.303,0.5913627249994446,0
+norris,Lando Norris,McLaren,2026,3,Japanese Grand Prix,5,1:30.401,1:29.795,1:29.409,89.40899999999999,0.7107616751897972,0
+hamilton,Lewis Hamilton,Ferrari,2026,3,Japanese Grand Prix,6,1:30.309,1:29.589,1:29.567,89.56700000000001,0.8887336952848823,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,3,Japanese Grand Prix,7,1:30.584,1:29.874,1:29.691,89.691,1.028407938903797,0
+hadjar,Isack Hadjar,Red Bull,2026,3,Japanese Grand Prix,8,1:30.662,1:30.104,1:29.978,89.97800000000001,1.3516862285701592,0
+bortoleto,Gabriel Bortoleto,Audi,2026,3,Japanese Grand Prix,9,1:30.359,1:29.990,1:30.274,89.99,1.3652030908558377,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,3,Japanese Grand Prix,10,1:30.781,1:30.109,1:30.319,90.10900000000001,1.4992453085224122,0
+max_verstappen,Max Verstappen,Red Bull,2026,3,Japanese Grand Prix,11,1:30.519,1:30.262,,90.262,1.6715853026650906,0
+ocon,Esteban Ocon,Haas F1 Team,2026,3,Japanese Grand Prix,12,1:30.915,1:30.309,,90.309,1.7245263466174166,0
+hulkenberg,Nico Hülkenberg,Audi,2026,3,Japanese Grand Prix,13,1:30.358,1:30.387,,90.358,1.7797202009506963,0
+lawson,Liam Lawson,RB F1 Team,2026,3,Japanese Grand Prix,14,1:30.657,1:30.495,,90.495,1.9340377120457886,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,3,Japanese Grand Prix,15,1:30.931,1:30.627,,90.627,2.0827231971884963,0
+sainz,Carlos Sainz,Williams,2026,3,Japanese Grand Prix,16,1:30.927,1:31.033,,90.92699999999999,2.420644754331036,0
+albon,Alexander Albon,Williams,2026,3,Japanese Grand Prix,17,1:31.088,,,91.088,2.60199598999753,0
+bearman,Oliver Bearman,Haas F1 Team,2026,3,Japanese Grand Prix,18,1:31.090,,,91.09,2.6042488003784836,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,3,Japanese Grand Prix,19,1:32.206,,,92.206,3.8613169929487157,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,3,Japanese Grand Prix,20,1:32.330,,,92.33,4.00099123656763,0
+alonso,Fernando Alonso,Aston Martin,2026,3,Japanese Grand Prix,21,1:32.646,,,92.646,4.356935276757756,0
+stroll,Lance Stroll,Aston Martin,2026,3,Japanese Grand Prix,22,1:32.920,,,92.92,4.665570298947941,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,4,Miami Grand Prix,1,1:28.653,1:28.289,1:27.798,87.798,0.0,0
+max_verstappen,Max Verstappen,Red Bull,2026,4,Miami Grand Prix,2,1:29.099,1:28.116,1:27.964,87.964,0.18907036606756744,0
+leclerc,Charles Leclerc,Ferrari,2026,4,Miami Grand Prix,3,1:28.938,1:28.315,1:28.143,88.143,0.3929474475500516,0
+norris,Lando Norris,McLaren,2026,4,Miami Grand Prix,4,1:29.183,1:28.920,1:28.183,88.18299999999999,0.43850657190367404,0
+russell,George Russell,Mercedes,2026,4,Miami Grand Prix,5,1:29.492,1:28.477,1:28.197,88.197,0.454452265427463,0
+hamilton,Lewis Hamilton,Ferrari,2026,4,Miami Grand Prix,6,1:29.483,1:28.477,1:28.319,88.319,0.5934075947060302,0
+piastri,Oscar Piastri,McLaren,2026,4,Miami Grand Prix,7,1:29.920,1:28.332,1:28.500,88.332,0.608214310120947,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,4,Miami Grand Prix,8,1:29.584,1:28.975,1:28.762,88.762,1.0979748969224712,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,4,Miami Grand Prix,9,1:29.914,1:29.070,1:28.810,88.81,1.152645846146827,0
+hulkenberg,Nico Hülkenberg,Audi,2026,4,Miami Grand Prix,10,1:29.645,1:29.439,,89.439,1.8690630766076577,0
+lawson,Liam Lawson,RB F1 Team,2026,4,Miami Grand Prix,11,1:29.595,1:29.499,,89.499,1.9374017631381024,0
+bearman,Oliver Bearman,Haas F1 Team,2026,4,Miami Grand Prix,12,1:29.340,1:29.567,,89.34,1.7563042438324405,0
+sainz,Carlos Sainz,Williams,2026,4,Miami Grand Prix,13,1:29.540,1:29.568,,89.53999999999999,1.9840998656005748,0
+ocon,Esteban Ocon,Haas F1 Team,2026,4,Miami Grand Prix,14,1:29.838,1:29.772,,89.77199999999999,2.2483427868516204,0
+albon,Alexander Albon,Williams,2026,4,Miami Grand Prix,15,1:29.720,1:29.946,,89.72,2.189115925191909,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,4,Miami Grand Prix,16,1:30.133,,,90.133,2.6595138841431387,0
+alonso,Fernando Alonso,Aston Martin,2026,4,Miami Grand Prix,17,1:31.098,,,91.098,3.75862775917446,0
+stroll,Lance Stroll,Aston Martin,2026,4,Miami Grand Prix,18,1:31.164,,,91.164,3.83380031435796,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,4,Miami Grand Prix,19,1:31.629,,,91.629,4.363425134968901,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,4,Miami Grand Prix,20,1:31.967,,,91.967,4.7483997357570695,0
+bortoleto,Gabriel Bortoleto,Audi,2026,4,Miami Grand Prix,21,1:33.737,,,93.737,6.7643909884052,0
+hadjar,Isack Hadjar,Red Bull,2026,4,Miami Grand Prix,22,,,,,,1
+russell,George Russell,Mercedes,2026,5,Canadian Grand Prix,1,1:13.953,1:13.079,1:12.578,72.578,0.0,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,5,Canadian Grand Prix,2,1:13.380,1:13.076,1:12.646,72.646,0.09369230345284141,0
+norris,Lando Norris,McLaren,2026,5,Canadian Grand Prix,3,1:13.503,1:13.049,1:12.729,72.729,0.20805202678497725,0
+piastri,Oscar Piastri,McLaren,2026,5,Canadian Grand Prix,4,1:13.559,1:13.285,1:12.781,72.781,0.27969908236655794,0
+hamilton,Lewis Hamilton,Ferrari,2026,5,Canadian Grand Prix,5,1:13.767,1:13.041,1:12.868,72.868,0.3995701176664923,0
+max_verstappen,Max Verstappen,Red Bull,2026,5,Canadian Grand Prix,6,1:14.067,1:13.479,1:12.907,72.907,0.4533054093526889,0
+hadjar,Isack Hadjar,Red Bull,2026,5,Canadian Grand Prix,7,1:13.654,1:12.975,1:12.935,72.935,0.49188459312738964,0
+leclerc,Charles Leclerc,Ferrari,2026,5,Canadian Grand Prix,8,1:13.825,1:13.496,1:12.976,72.976,0.5483755407974744,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,5,Canadian Grand Prix,9,1:13.895,1:13.548,1:13.280,73.28,0.9672352503513393,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,5,Canadian Grand Prix,10,1:14.466,1:13.857,1:13.697,73.697,1.541789522995951,0
+hulkenberg,Nico Hülkenberg,Audi,2026,5,Canadian Grand Prix,11,1:14.562,1:13.886,,73.886,1.8021990134751587,0
+lawson,Liam Lawson,RB F1 Team,2026,5,Canadian Grand Prix,12,1:14.346,1:13.897,,73.897,1.8173551213866546,0
+bortoleto,Gabriel Bortoleto,Audi,2026,5,Canadian Grand Prix,13,1:14.775,1:14.071,,74.071,2.0570971919865455,0
+sainz,Carlos Sainz,Williams,2026,5,Canadian Grand Prix,15,1:14.276,1:14.273,,74.273,2.335418446361137,0
+bearman,Oliver Bearman,Haas F1 Team,2026,5,Canadian Grand Prix,16,1:14.449,1:14.416,,74.416,2.532447849210495,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,5,Canadian Grand Prix,14,1:14.698,1:14.187,,74.187,2.216925239053147,0
+ocon,Esteban Ocon,Haas F1 Team,2026,5,Canadian Grand Prix,17,1:14.845,,,74.845,3.123536057758547,0
+albon,Alexander Albon,Williams,2026,5,Canadian Grand Prix,18,1:14.851,,,74.851,3.131803025710256,0
+alonso,Fernando Alonso,Aston Martin,2026,5,Canadian Grand Prix,19,1:15.196,,,75.196,3.6071536829342055,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,5,Canadian Grand Prix,20,1:15.429,,,75.429,3.9281876050593745,0
+stroll,Lance Stroll,Aston Martin,2026,5,Canadian Grand Prix,21,1:16.195,,,76.195,4.983603846895734,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,5,Canadian Grand Prix,22,1:16.272,,,76.27199999999999,5.089696602276161,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,6,Monaco Grand Prix,1,1:13.599,1:12.704,1:12.051,72.051,0.0,0
+max_verstappen,Max Verstappen,Red Bull,2026,6,Monaco Grand Prix,2,1:13.490,1:12.499,1:12.094,72.094,0.05967994892506212,0
+hamilton,Lewis Hamilton,Ferrari,2026,6,Monaco Grand Prix,3,1:13.777,1:12.934,1:12.279,72.279,0.3164425198817433,0
+leclerc,Charles Leclerc,Ferrari,2026,6,Monaco Grand Prix,4,1:13.293,1:12.774,1:12.351,72.351,0.41637173668651606,0
+hadjar,Isack Hadjar,Red Bull,2026,6,Monaco Grand Prix,5,1:14.408,1:12.722,1:12.434,72.434,0.5315679171697729,0
+russell,George Russell,Mercedes,2026,6,Monaco Grand Prix,6,1:14.214,1:13.238,1:12.445,72.445,0.5468348808482792,0
+piastri,Oscar Piastri,McLaren,2026,6,Monaco Grand Prix,7,1:14.159,1:12.983,1:12.624,72.624,0.7952700170712257,0
+norris,Lando Norris,McLaren,2026,6,Monaco Grand Prix,8,1:13.630,1:12.919,1:12.765,72.765,0.9909647333139038,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,6,Monaco Grand Prix,9,1:14.469,1:13.762,1:13.226,73.226,1.6307893020221842,0
+lawson,Liam Lawson,RB F1 Team,2026,6,Monaco Grand Prix,10,1:14.498,1:13.471,1:13.412,73.412,1.8889397787678286,0
+albon,Alexander Albon,Williams,2026,6,Monaco Grand Prix,11,1:14.321,1:13.787,,73.787,2.4094044496259626,0
+sainz,Carlos Sainz,Williams,2026,6,Monaco Grand Prix,12,1:14.348,1:13.815,,73.815,2.448265811716688,0
+hulkenberg,Nico Hülkenberg,Audi,2026,6,Monaco Grand Prix,13,1:13.923,1:13.902,,73.902,2.5690136153557974,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,6,Monaco Grand Prix,14,1:14.573,1:13.995,,73.995,2.6980888537286196,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,6,Monaco Grand Prix,15,1:14.685,1:14.248,,74.248,3.049229018334243,0
+bortoleto,Gabriel Bortoleto,Audi,2026,6,Monaco Grand Prix,16,1:14.683,,,74.68299999999999,3.652968036529658,0
+ocon,Esteban Ocon,Haas F1 Team,2026,6,Monaco Grand Prix,17,1:14.722,,,74.722,3.7070963622989117,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,6,Monaco Grand Prix,18,1:14.747,,,74.747,3.7417940070227917,0
+bearman,Oliver Bearman,Haas F1 Team,2026,6,Monaco Grand Prix,19,1:14.814,,,74.814,3.8347836948827707,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,6,Monaco Grand Prix,20,1:15.283,,,75.283,4.485711509902712,0
+alonso,Fernando Alonso,Aston Martin,2026,6,Monaco Grand Prix,21,1:15.349,,,75.349,4.57731329197375,0
+stroll,Lance Stroll,Aston Martin,2026,6,Monaco Grand Prix,22,1:16.061,,,76.061,5.56550221370975,0
+russell,George Russell,Mercedes,2026,7,Barcelona Grand Prix,1,1:15.717,1:15.228,1:14.679,74.679,0.0,0
+hamilton,Lewis Hamilton,Ferrari,2026,7,Barcelona Grand Prix,2,1:15.625,1:15.418,1:14.743,74.743,0.08570012988924347,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,7,Barcelona Grand Prix,3,1:15.977,1:15.295,1:14.998,74.998,0.4271615849167798,0
+norris,Lando Norris,McLaren,2026,7,Barcelona Grand Prix,4,1:16.287,1:15.361,1:15.001,75.001,0.4311787785053367,0
+max_verstappen,Max Verstappen,Red Bull,2026,7,Barcelona Grand Prix,5,1:16.352,1:15.484,1:15.021,75.021,0.45796006909573084,0
+hadjar,Isack Hadjar,Red Bull,2026,7,Barcelona Grand Prix,6,1:16.427,1:15.754,1:15.077,75.077,0.53294768274883,0
+piastri,Oscar Piastri,McLaren,2026,7,Barcelona Grand Prix,7,1:16.138,1:15.518,1:15.090,75.09,0.5503555216325839,0
+lawson,Liam Lawson,RB F1 Team,2026,7,Barcelona Grand Prix,8,1:16.673,1:15.585,1:16.542,75.58500000000001,1.2131924637448277,0
+hulkenberg,Nico Hülkenberg,Audi,2026,7,Barcelona Grand Prix,9,1:16.066,1:15.768,1:16.657,75.768,1.4582412726469318,0
+leclerc,Charles Leclerc,Ferrari,2026,7,Barcelona Grand Prix,10,1:15.964,1:15.281,,75.281,0.8061168467708546,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,7,Barcelona Grand Prix,11,1:16.425,1:15.840,,75.84,1.5546539187723418,0
+bortoleto,Gabriel Bortoleto,Audi,2026,7,Barcelona Grand Prix,12,1:16.616,1:16.001,,76.001,1.7702433080250213,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,7,Barcelona Grand Prix,13,1:16.590,1:16.191,,76.191,2.0246655686337434,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,7,Barcelona Grand Prix,14,1:16.599,1:16.261,,76.261,2.118400085700123,0
+bearman,Oliver Bearman,Haas F1 Team,2026,7,Barcelona Grand Prix,15,1:16.571,1:16.389,,76.389,2.289800345478632,0
+sainz,Carlos Sainz,Williams,2026,7,Barcelona Grand Prix,16,1:16.881,1:17.827,,76.881,2.948620094002319,0
+ocon,Esteban Ocon,Haas F1 Team,2026,7,Barcelona Grand Prix,17,1:17.073,,,77.07300000000001,3.205720483670116,0
+albon,Alexander Albon,Williams,2026,7,Barcelona Grand Prix,18,1:17.424,,,77.424,3.6757321335315174,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,7,Barcelona Grand Prix,19,1:17.545,,,77.545,3.8377589416033864,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,7,Barcelona Grand Prix,20,1:17.757,,,77.757,4.1216406218615775,0
+stroll,Lance Stroll,Aston Martin,2026,7,Barcelona Grand Prix,21,1:18.758,,,78.758,5.462044215910766,0
+alonso,Fernando Alonso,Aston Martin,2026,7,Barcelona Grand Prix,22,1:18.815,,,78.815,5.53837089409337,0
+russell,George Russell,Mercedes,2026,8,Austrian Grand Prix,1,1:07.398,1:06.979,1:06.113,66.113,0.0,0
+leclerc,Charles Leclerc,Ferrari,2026,8,Austrian Grand Prix,2,1:07.543,1:07.030,1:06.349,66.349,0.3569645909276664,0
+hamilton,Lewis Hamilton,Ferrari,2026,8,Austrian Grand Prix,3,1:07.290,1:06.994,1:06.408,66.408,0.44620573865956636,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,8,Austrian Grand Prix,4,1:07.083,1:06.763,1:06.414,66.414,0.4552811096153686,0
+max_verstappen,Max Verstappen,Red Bull,2026,8,Austrian Grand Prix,5,1:07.407,1:07.183,1:06.475,66.475,0.5475473809991804,0
+norris,Lando Norris,McLaren,2026,8,Austrian Grand Prix,6,1:07.259,1:06.897,1:06.502,66.502,0.5883865503002461,0
+piastri,Oscar Piastri,McLaren,2026,8,Austrian Grand Prix,7,1:07.487,1:06.890,1:06.511,66.511,0.6019996067339273,0
+hadjar,Isack Hadjar,Red Bull,2026,8,Austrian Grand Prix,8,1:07.408,1:07.086,1:06.632,66.632,0.7850195876756505,0
+lawson,Liam Lawson,RB F1 Team,2026,8,Austrian Grand Prix,9,1:07.385,1:07.136,1:06.955,66.955,1.2735770574622274,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,8,Austrian Grand Prix,10,1:07.549,1:07.155,1:07.007,67.007,1.3522302724124025,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,8,Austrian Grand Prix,11,1:08.038,1:07.223,,67.223,1.6789436268207503,0
+bortoleto,Gabriel Bortoleto,Audi,2026,8,Austrian Grand Prix,12,1:08.035,1:07.293,,67.293,1.7848229546382877,0
+bearman,Oliver Bearman,Haas F1 Team,2026,8,Austrian Grand Prix,13,1:08.061,1:07.523,,67.523,2.1327121746101296,0
+hulkenberg,Nico Hülkenberg,Audi,2026,8,Austrian Grand Prix,14,1:08.066,1:07.611,,67.611,2.2658176152950293,0
+ocon,Esteban Ocon,Haas F1 Team,2026,8,Austrian Grand Prix,15,1:08.231,1:07.817,,67.81700000000001,2.577405351443751,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,8,Austrian Grand Prix,16,1:07.894,1:08.171,,67.894,2.6938726120430356,0
+sainz,Carlos Sainz,Williams,2026,8,Austrian Grand Prix,17,1:08.252,,,68.252,3.235369745738348,0
+albon,Alexander Albon,Williams,2026,8,Austrian Grand Prix,18,1:08.509,,,68.509,3.6240981350112778,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,8,Austrian Grand Prix,19,1:08.945,,,68.945,4.2835750911318415,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,8,Austrian Grand Prix,20,1:09.030,,,69.03,4.41214284633884,0
+alonso,Fernando Alonso,Aston Martin,2026,8,Austrian Grand Prix,21,1:09.942,,,69.94200000000001,5.791599231618605,0
+stroll,Lance Stroll,Aston Martin,2026,8,Austrian Grand Prix,22,1:10.363,,,70.363,6.4283877603497075,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,9,British Grand Prix,1,1:29.719,1:28.493,1:28.111,88.111,0.0,0
+leclerc,Charles Leclerc,Ferrari,2026,9,British Grand Prix,2,1:29.534,1:28.626,1:28.286,88.286,0.19861311300517492,0
+hamilton,Lewis Hamilton,Ferrari,2026,9,British Grand Prix,3,1:29.644,1:28.864,1:28.458,88.458,0.39382142978741097,0
+russell,George Russell,Mercedes,2026,9,British Grand Prix,4,1:29.985,1:28.920,1:28.481,88.481,0.41992486749666824,0
+hadjar,Isack Hadjar,Red Bull,2026,9,British Grand Prix,5,1:29.276,1:29.069,1:28.746,88.746,0.7206818671902315,0
+norris,Lando Norris,McLaren,2026,9,British Grand Prix,6,1:30.186,1:29.383,1:28.877,88.877,0.8693579689255548,0
+max_verstappen,Max Verstappen,Red Bull,2026,9,British Grand Prix,7,1:29.549,1:29.113,1:28.893,88.893,0.8875168821145918,0
+piastri,Oscar Piastri,McLaren,2026,9,British Grand Prix,8,1:29.971,1:29.218,1:29.032,89.032,1.0452724404444336,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,9,British Grand Prix,9,1:29.661,1:29.324,1:29.305,89.305,1.3551088967325375,0
+lawson,Liam Lawson,RB F1 Team,2026,9,British Grand Prix,10,1:29.300,1:29.429,1:29.716,89.3,1.3494342363609357,0
+bortoleto,Gabriel Bortoleto,Audi,2026,9,British Grand Prix,11,1:30.269,1:29.461,,89.461,1.5321583003257144,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,9,British Grand Prix,12,1:30.345,1:30.063,,90.063,2.215387409063574,0
+hulkenberg,Nico Hülkenberg,Audi,2026,9,British Grand Prix,13,1:29.539,1:30.076,,89.539,1.620683002122325,0
+bearman,Oliver Bearman,Haas F1 Team,2026,9,British Grand Prix,14,1:30.570,1:30.501,,90.501,2.7124876576136936,0
+sainz,Carlos Sainz,Williams,2026,9,British Grand Prix,15,1:30.562,1:30.623,,90.562,2.7817185141469247,0
+albon,Alexander Albon,Williams,2026,9,British Grand Prix,16,1:30.638,1:31.341,,90.638,2.8679733517948947,0
+ocon,Esteban Ocon,Haas F1 Team,2026,9,British Grand Prix,17,1:30.680,,,90.68,2.91564049891615,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,9,British Grand Prix,18,1:31.227,,,91.227,3.536448343566634,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,9,British Grand Prix,19,1:31.321,,,91.321,3.6431319585522814,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,9,British Grand Prix,20,1:31.451,,,91.451,3.790673128213262,0
+stroll,Lance Stroll,Aston Martin,2026,9,British Grand Prix,21,1:32.863,,,92.863,5.39319721714655,0
+alonso,Fernando Alonso,Aston Martin,2026,9,British Grand Prix,22,1:33.025,,,93.025,5.577056213185649,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,10,Belgian Grand Prix,1,1:46.304,1:45.142,1:44.361,104.36099999999999,0.0,0
+max_verstappen,Max Verstappen,Red Bull,2026,10,Belgian Grand Prix,2,1:45.930,1:45.589,1:44.678,104.678,0.3037533178102958,0
+norris,Lando Norris,McLaren,2026,10,Belgian Grand Prix,3,1:45.865,1:45.454,1:44.801,104.801,0.4216134379701364,0
+leclerc,Charles Leclerc,Ferrari,2026,10,Belgian Grand Prix,5,1:46.278,1:45.397,1:44.893,104.893,0.5097689750002576,0
+hadjar,Isack Hadjar,Red Bull,2026,10,Belgian Grand Prix,10,1:46.062,1:45.823,,105.82300000000001,1.4009064688916606,0
+russell,George Russell,Mercedes,2026,10,Belgian Grand Prix,4,1:46.185,1:45.689,1:44.869,104.869,0.48677187838370717,0
+hamilton,Lewis Hamilton,Ferrari,2026,10,Belgian Grand Prix,6,1:46.124,1:45.543,1:44.895,104.89500000000001,0.5116853997183091,0
+piastri,Oscar Piastri,McLaren,2026,10,Belgian Grand Prix,7,1:46.433,1:45.671,1:45.016,105.01599999999999,0.627629095160076,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,10,Belgian Grand Prix,8,1:46.191,1:45.629,1:45.143,105.143,0.7493220647559973,0
+bortoleto,Gabriel Bortoleto,Audi,2026,10,Belgian Grand Prix,9,1:46.609,1:46.082,1:45.628,105.628,1.2140550588821686,0
+lawson,Liam Lawson,RB F1 Team,2026,10,Belgian Grand Prix,11,1:46.501,1:46.120,,106.12,1.6854955395214866,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,10,Belgian Grand Prix,12,1:46.679,1:46.331,,106.331,1.8876783472753456,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,10,Belgian Grand Prix,13,1:46.795,1:46.392,,106.392,1.9461293011757252,0
+hulkenberg,Nico Hülkenberg,Audi,2026,10,Belgian Grand Prix,14,1:46.893,1:46.671,,106.67099999999999,2.213470549343155,0
+sainz,Carlos Sainz,Williams,2026,10,Belgian Grand Prix,15,1:47.080,1:46.777,,106.777,2.315041059399592,0
+bearman,Oliver Bearman,Haas F1 Team,2026,10,Belgian Grand Prix,16,1:47.113,1:46.779,,106.779,2.3169574841176432,0
+albon,Alexander Albon,Williams,2026,10,Belgian Grand Prix,17,1:47.120,,,107.12,2.6437078985444895,0
+ocon,Esteban Ocon,Haas F1 Team,2026,10,Belgian Grand Prix,18,1:47.801,,,107.801,3.2962505150391452,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,10,Belgian Grand Prix,19,1:47.823,,,107.82300000000001,3.3173311869376665,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,10,Belgian Grand Prix,20,1:47.971,,,107.971,3.459146616073072,0
+alonso,Fernando Alonso,Aston Martin,2026,10,Belgian Grand Prix,21,1:50.002,,,110.00200000000001,5.405275917248797,0
+stroll,Lance Stroll,Aston Martin,2026,10,Belgian Grand Prix,22,1:50.177,,,110.17699999999999,5.57296308007782,0
+norris,Lando Norris,McLaren,2026,11,Hungarian Grand Prix,1,1:18.277,1:17.456,1:17.207,77.207,0.0,0
+hamilton,Lewis Hamilton,Ferrari,2026,11,Hungarian Grand Prix,2,1:18.730,1:17.803,1:17.219,77.219,0.015542632144760482,0
+leclerc,Charles Leclerc,Ferrari,2026,11,Hungarian Grand Prix,3,1:18.984,1:17.626,1:17.445,77.445,0.3082622042042793,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,11,Hungarian Grand Prix,4,1:18.726,1:18.393,1:17.479,77.479,0.35229966194776363,0
+piastri,Oscar Piastri,McLaren,2026,11,Hungarian Grand Prix,5,1:18.891,1:17.928,1:17.684,77.684,0.6178196277539572,0
+max_verstappen,Max Verstappen,Red Bull,2026,11,Hungarian Grand Prix,6,1:18.656,1:18.249,1:17.725,77.725,0.6709236209152092,0
+russell,George Russell,Mercedes,2026,11,Hungarian Grand Prix,7,1:18.856,1:18.445,1:17.760,77.76,0.7162562980040921,0
+hadjar,Isack Hadjar,Red Bull,2026,11,Hungarian Grand Prix,8,1:18.754,1:17.872,1:17.856,77.856,0.8405973551620871,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,11,Hungarian Grand Prix,9,1:19.233,1:18.360,1:18.281,78.281,1.3910655769554747,0
+hulkenberg,Nico Hülkenberg,Audi,2026,11,Hungarian Grand Prix,10,1:18.796,1:18.639,1:18.686,78.639,1.85475410260727,0
+lawson,Liam Lawson,RB F1 Team,2026,11,Hungarian Grand Prix,11,1:19.161,1:18.765,,78.765,2.0179517401271996,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,11,Hungarian Grand Prix,12,1:19.741,1:18.844,,78.844,2.1202740684134858,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,11,Hungarian Grand Prix,13,1:19.771,1:19.027,,79.027,2.357299208621,0
+bortoleto,Gabriel Bortoleto,Audi,2026,11,Hungarian Grand Prix,14,1:19.069,1:19.105,,79.069,2.4116984211276282,0
+ocon,Esteban Ocon,Haas F1 Team,2026,11,Hungarian Grand Prix,15,1:20.010,1:19.734,,79.73400000000001,3.27301928581607,0
+alonso,Fernando Alonso,Aston Martin,2026,11,Hungarian Grand Prix,16,1:20.126,1:19.808,,79.80799999999999,3.3688655173753634,0
+bearman,Oliver Bearman,Haas F1 Team,2026,11,Hungarian Grand Prix,17,1:20.233,,,80.233,3.919333739168751,0
+sainz,Carlos Sainz,Williams,2026,11,Hungarian Grand Prix,18,1:20.621,,,80.621,4.4218788451824365,0
+albon,Alexander Albon,Williams,2026,11,Hungarian Grand Prix,19,1:20.658,,,80.658,4.469801960962094,0
+stroll,Lance Stroll,Aston Martin,2026,11,Hungarian Grand Prix,20,1:20.659,,,80.65899999999999,4.471097180307493,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,11,Hungarian Grand Prix,21,1:20.886,,,80.886,4.76511197171241,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,11,Hungarian Grand Prix,22,1:21.322,,,81.322,5.3298276063051375,0
+norris,Lando Norris,McLaren,2026,12,Dutch Grand Prix,1,1:12.695,1:11.628,1:11.163,71.163,0.0,0
+russell,George Russell,Mercedes,2026,12,Dutch Grand Prix,2,1:12.924,1:11.959,1:11.265,71.265,0.14333291176595875,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,12,Dutch Grand Prix,3,1:13.022,1:11.915,1:11.296,71.29599999999999,0.18689487514578218,0
+piastri,Oscar Piastri,McLaren,2026,12,Dutch Grand Prix,4,1:12.610,1:11.641,1:11.305,71.305,0.19954189677220402,0
+hamilton,Lewis Hamilton,Ferrari,2026,12,Dutch Grand Prix,5,1:12.673,1:11.970,1:11.494,71.494,0.4651293509267518,0
+leclerc,Charles Leclerc,Ferrari,2026,12,Dutch Grand Prix,6,1:13.064,1:11.910,1:11.558,71.55799999999999,0.5550637269367442,0
+max_verstappen,Max Verstappen,Red Bull,2026,12,Dutch Grand Prix,7,1:13.290,1:11.874,1:11.618,71.618,0.6393772044461343,0
+lawson,Liam Lawson,Red Bull,2026,12,Dutch Grand Prix,8,1:13.392,1:12.301,1:11.733,71.733,0.8009780363391172,0
+bortoleto,Gabriel Bortoleto,Audi,2026,12,Dutch Grand Prix,9,1:13.142,1:12.433,1:12.079,72.07900000000001,1.2871857566432165,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,12,Dutch Grand Prix,10,1:13.074,1:12.525,1:12.185,72.185,1.4361395669097776,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,12,Dutch Grand Prix,11,1:13.115,1:12.616,,72.616,2.0417913803521426,0
+tsunoda,Yuki Tsunoda,RB F1 Team,2026,12,Dutch Grand Prix,12,1:13.085,1:12.627,,72.627,2.0572488512288656,0
+hulkenberg,Nico Hülkenberg,Audi,2026,12,Dutch Grand Prix,13,1:13.188,1:12.797,,72.797,2.2961370375054413,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,12,Dutch Grand Prix,14,1:13.322,1:12.800,,72.8,2.3003527113809152,0
+ocon,Esteban Ocon,Haas F1 Team,2026,12,Dutch Grand Prix,15,1:13.544,1:13.137,,73.137,2.7739134100585927,0
+albon,Alexander Albon,Williams,2026,12,Dutch Grand Prix,16,1:13.552,1:13.182,,73.182,2.8371485181906353,0
+sainz,Carlos Sainz,Williams,2026,12,Dutch Grand Prix,17,1:13.574,,,73.574,3.3879965712519278,0
+alonso,Fernando Alonso,Aston Martin,2026,12,Dutch Grand Prix,18,1:13.650,,,73.65,3.494793642763816,0
+stroll,Lance Stroll,Aston Martin,2026,12,Dutch Grand Prix,19,1:13.818,,,73.818,3.7308713797900683,0
+bearman,Oliver Bearman,Haas F1 Team,2026,12,Dutch Grand Prix,20,1:13.826,,,73.826,3.742113176791295,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,12,Dutch Grand Prix,21,1:14.371,,,74.371,4.507960597501515,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,12,Dutch Grand Prix,22,1:14.600,,,74.6,4.829757036662308,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,13,Italian Grand Prix,1,1:22.612,1:22.077,1:21.786,81.786,0.0,0
+russell,George Russell,Mercedes,2026,13,Italian Grand Prix,2,1:22.779,1:22.161,1:21.846,81.846,0.07336218912772363,0
+piastri,Oscar Piastri,McLaren,2026,13,Italian Grand Prix,3,1:22.924,1:22.017,1:21.966,81.96600000000001,0.2200865673831709,0
+leclerc,Charles Leclerc,Ferrari,2026,13,Italian Grand Prix,4,1:22.902,1:22.509,1:22.004,82.004,0.2665492871640751,0
+hamilton,Lewis Hamilton,Ferrari,2026,13,Italian Grand Prix,5,1:22.847,1:22.516,1:22.011,82.011,0.27510820922895807,0
+max_verstappen,Max Verstappen,Red Bull,2026,13,Italian Grand Prix,6,1:22.631,1:22.188,1:22.070,82.07,0.34724769520455556,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,13,Italian Grand Prix,7,1:22.758,1:21.882,1:22.093,81.882,0.11737950260435337,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,13,Italian Grand Prix,8,1:22.662,1:22.400,1:22.220,82.22,0.5306531680238535,0
+norris,Lando Norris,McLaren,2026,13,Italian Grand Prix,9,1:22.659,1:22.067,1:22.256,82.06700000000001,0.34357958574817715,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,13,Italian Grand Prix,10,1:22.727,1:22.345,1:22.286,82.286,0.6113515760643562,0
+bortoleto,Gabriel Bortoleto,Audi,2026,13,Italian Grand Prix,11,1:22.946,1:22.517,,82.517,0.8937960042060933,0
+bearman,Oliver Bearman,Haas F1 Team,2026,13,Italian Grand Prix,12,1:22.906,1:22.756,,82.756,1.1860220575648617,0
+hulkenberg,Nico Hülkenberg,Audi,2026,13,Italian Grand Prix,13,1:23.440,1:22.779,,82.779,1.2141442300638294,0
+lawson,Liam Lawson,Red Bull,2026,13,Italian Grand Prix,14,1:22.989,1:22.821,,82.821,1.2654977624532382,0
+sainz,Carlos Sainz,Williams,2026,13,Italian Grand Prix,15,1:23.616,1:23.453,,83.453,2.0382461545985775,0
+ocon,Esteban Ocon,Haas F1 Team,2026,13,Italian Grand Prix,16,1:23.466,1:23.454,,83.45400000000001,2.039468857750726,0
+tsunoda,Yuki Tsunoda,RB F1 Team,2026,13,Italian Grand Prix,17,1:23.755,,,83.755,2.407502506541448,0
+albon,Alexander Albon,Williams,2026,13,Italian Grand Prix,18,1:24.356,,,84.356,3.1423471009708104,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,13,Italian Grand Prix,19,1:24.364,,,84.364,3.152128726187864,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,13,Italian Grand Prix,20,1:24.595,,,84.595,3.4345731543295788,0
+alonso,Fernando Alonso,Aston Martin,2026,13,Italian Grand Prix,21,1:25.150,,,85.15,4.11317340376105,0
+stroll,Lance Stroll,Aston Martin,2026,13,Italian Grand Prix,22,1:25.222,,,85.22200000000001,4.20120803071431,0
+norris,Lando Norris,McLaren,2026,14,Spanish Grand Prix,1,1:33.469,1:32.873,1:31.824,91.824,0.0,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,14,Spanish Grand Prix,2,1:33.267,1:32.591,1:31.835,91.83500000000001,0.011979438926656982,0
+max_verstappen,Max Verstappen,Red Bull,2026,14,Spanish Grand Prix,3,1:33.381,1:32.431,1:31.964,91.964,0.15246558633907892,0
+hamilton,Lewis Hamilton,Ferrari,2026,14,Spanish Grand Prix,4,1:33.531,1:32.710,1:32.013,92.013,0.2058285415577732,0
+leclerc,Charles Leclerc,Ferrari,2026,14,Spanish Grand Prix,5,1:33.532,1:32.755,1:32.019,92.019,0.21236278097229722,0
+russell,George Russell,Mercedes,2026,14,Spanish Grand Prix,6,1:33.211,1:32.850,1:32.149,92.149,0.3539379682871546,0
+piastri,Oscar Piastri,McLaren,2026,14,Spanish Grand Prix,7,1:33.829,1:33.204,1:32.294,92.294,0.5118487541383443,0
+lawson,Liam Lawson,Red Bull,2026,14,Spanish Grand Prix,8,1:33.310,1:32.780,1:32.316,92.316,0.5358076319916361,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,14,Spanish Grand Prix,9,1:33.963,1:33.038,1:32.903,92.90299999999999,1.1750740547133542,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,14,Spanish Grand Prix,10,1:34.340,1:33.204,1:33.041,93.041,1.3253615612476066,0
+hulkenberg,Nico Hülkenberg,Audi,2026,14,Spanish Grand Prix,11,1:34.417,1:33.223,,93.223,1.5235668234884203,0
+bortoleto,Gabriel Bortoleto,Audi,2026,14,Spanish Grand Prix,12,1:33.986,1:33.388,,93.388,1.703258407388053,0
+ocon,Esteban Ocon,Haas F1 Team,2026,14,Spanish Grand Prix,13,1:34.667,1:33.667,,93.667,2.0071005401637976,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,14,Spanish Grand Prix,14,1:34.246,1:33.753,,93.753,2.1007579717720937,0
+tsunoda,Yuki Tsunoda,RB F1 Team,2026,14,Spanish Grand Prix,15,1:34.311,1:34.084,,94.084,2.4612301794737723,0
+albon,Alexander Albon,Williams,2026,14,Spanish Grand Prix,16,1:35.307,1:35.532,,95.307,3.793125980135925,0
+sainz,Carlos Sainz,Williams,2026,14,Spanish Grand Prix,17,1:35.312,,,95.312,3.7985711796480137,0
+alonso,Fernando Alonso,Aston Martin,2026,14,Spanish Grand Prix,18,1:35.388,,,95.388,3.8813382122321105,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,14,Spanish Grand Prix,19,1:35.913,,,95.913,4.453084161003651,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,14,Spanish Grand Prix,20,1:38.011,,,98.011,6.737889876285075,0
+russell,George Russell,Mercedes,2026,15,Azerbaijan Grand Prix,1,1:43.615,1:43.462,1:42.526,102.52600000000001,0.0,0
+leclerc,Charles Leclerc,Ferrari,2026,15,Azerbaijan Grand Prix,2,1:44.360,1:43.780,1:43.363,103.363,0.8163782845326928,0
+piastri,Oscar Piastri,McLaren,2026,15,Azerbaijan Grand Prix,3,1:45.014,1:43.814,1:43.364,103.364,0.8173536468798037,0
+hadjar,Isack Hadjar,Red Bull,2026,15,Azerbaijan Grand Prix,4,1:44.161,1:43.880,1:43.500,103.5,0.9500029260870235,0
+norris,Lando Norris,McLaren,2026,15,Azerbaijan Grand Prix,5,1:44.571,1:44.020,1:43.672,103.672,1.1177652497902812,0
+hamilton,Lewis Hamilton,Ferrari,2026,15,Azerbaijan Grand Prix,6,1:44.260,1:44.037,1:43.858,103.858,1.2991826463531142,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,15,Azerbaijan Grand Prix,7,1:44.489,1:44.106,1:44.047,104.047,1.4835261299572577,0
+max_verstappen,Max Verstappen,Red Bull,2026,15,Azerbaijan Grand Prix,8,1:44.041,1:43.706,1:44.081,103.706,1.1509275695920973,0
+sainz,Carlos Sainz,Williams,2026,15,Azerbaijan Grand Prix,9,1:45.104,1:44.629,1:44.566,104.566,1.9897391881083637,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,15,Azerbaijan Grand Prix,10,1:45.106,1:44.683,1:44.963,104.68299999999999,2.1038565827204536,0
+bearman,Oliver Bearman,Haas F1 Team,2026,15,Azerbaijan Grand Prix,11,1:45.228,1:44.775,,104.775,2.1935899186547703,0
+lawson,Liam Lawson,RB F1 Team,2026,15,Azerbaijan Grand Prix,12,1:45.535,1:44.860,,104.86,2.276495718159288,0
+albon,Alexander Albon,Williams,2026,15,Azerbaijan Grand Prix,13,1:45.031,1:45.001,,105.001,2.414021809102085,0
+ocon,Esteban Ocon,Haas F1 Team,2026,15,Azerbaijan Grand Prix,14,1:45.039,1:45.016,,105.01599999999999,2.428652244308749,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,15,Azerbaijan Grand Prix,15,1:45.381,1:45.106,,105.106,2.5164348555488214,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,15,Azerbaijan Grand Prix,16,1:45.504,,,105.50399999999999,2.9046290696993715,0
+bortoleto,Gabriel Bortoleto,Audi,2026,15,Azerbaijan Grand Prix,17,1:45.799,,,105.799,3.192360962097407,0
+hulkenberg,Nico Hülkenberg,Audi,2026,15,Azerbaijan Grand Prix,18,1:45.920,,,105.92,3.310379806097963,0
+alonso,Fernando Alonso,Aston Martin,2026,15,Azerbaijan Grand Prix,19,1:46.593,,,106.593,3.9667986657043075,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,15,Azerbaijan Grand Prix,20,1:46.658,,,106.658,4.030197218266585,0
+stroll,Lance Stroll,Aston Martin,2026,15,Azerbaijan Grand Prix,21,1:47.337,,,107.337,4.692468251955595,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,15,Azerbaijan Grand Prix,22,1:48.290,,,108.28999999999999,5.621988568753267,0
+max_verstappen,Max Verstappen,Red Bull,2026,16,Bahrain Grand Prix in Malaysia,1,1:36.477,1:35.696,1:35.130,95.13,0.0,0
+hamilton,Lewis Hamilton,Ferrari,2026,16,Bahrain Grand Prix in Malaysia,2,1:36.595,1:36.032,1:35.428,95.428,0.3132555450436225,0
+hadjar,Isack Hadjar,Red Bull,2026,16,Bahrain Grand Prix in Malaysia,3,1:36.898,1:36.192,1:35.558,95.55799999999999,0.44991064858614926,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,16,Bahrain Grand Prix in Malaysia,4,1:37.041,1:35.959,1:35.631,95.631,0.5266477451908003,0
+leclerc,Charles Leclerc,Ferrari,2026,16,Bahrain Grand Prix in Malaysia,5,1:36.730,1:35.970,1:35.666,95.666,0.56343950383686,0
+norris,Lando Norris,McLaren,2026,16,Bahrain Grand Prix in Malaysia,6,1:37.092,1:36.173,1:35.757,95.757,0.6590980763166332,0
+piastri,Oscar Piastri,McLaren,2026,16,Bahrain Grand Prix in Malaysia,7,1:36.852,1:36.020,1:35.762,95.762,0.6643540418374894,0
+russell,George Russell,Mercedes,2026,16,Bahrain Grand Prix in Malaysia,8,1:37.264,1:36.245,1:35.871,95.87100000000001,0.7789340901923847,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,16,Bahrain Grand Prix in Malaysia,9,1:37.174,1:36.410,1:37.210,96.41,1.345527173341754,0
+bortoleto,Gabriel Bortoleto,Audi,2026,16,Bahrain Grand Prix in Malaysia,10,1:37.106,1:36.814,1:37.673,96.814,1.7702091874277182,0
+lawson,Liam Lawson,RB F1 Team,2026,16,Bahrain Grand Prix in Malaysia,11,1:37.332,1:37.023,,97.023,1.9899085461999366,0
+alonso,Fernando Alonso,Aston Martin,2026,16,Bahrain Grand Prix in Malaysia,12,1:37.721,1:37.220,,97.22,2.1969935877220736,0
+sainz,Carlos Sainz,Williams,2026,16,Bahrain Grand Prix in Malaysia,13,1:37.651,1:37.527,,97.527,2.519709870703246,0
+stroll,Lance Stroll,Aston Martin,2026,16,Bahrain Grand Prix in Malaysia,14,1:37.729,1:37.566,,97.566,2.560706401766022,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,16,Bahrain Grand Prix in Malaysia,15,1:37.179,,,97.179,2.153894670450973,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,16,Bahrain Grand Prix in Malaysia,16,1:37.883,,,97.88300000000001,2.893934615788929,0
+hulkenberg,Nico Hülkenberg,Audi,2026,16,Bahrain Grand Prix in Malaysia,17,1:37.970,,,97.97,2.985388415851986,0
+bearman,Oliver Bearman,Haas F1 Team,2026,16,Bahrain Grand Prix in Malaysia,18,1:37.980,,,97.97999999999999,2.9959003468937206,0
+ocon,Esteban Ocon,Haas F1 Team,2026,16,Bahrain Grand Prix in Malaysia,19,1:38.233,,,98.233,3.261852202249571,0
+albon,Alexander Albon,Williams,2026,16,Bahrain Grand Prix in Malaysia,20,1:38.600,,,98.6,3.6476400714811286,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,16,Bahrain Grand Prix in Malaysia,21,1:38.611,,,98.61099999999999,3.6592031956270255,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,16,Bahrain Grand Prix in Malaysia,22,1:38.933,,,98.93299999999999,3.997687375170811,0
+max_verstappen,Max Verstappen,Red Bull,2026,17,Singapore Grand Prix,1,1:33.241,1:31.639,1:31.373,91.373,0.0,0
+leclerc,Charles Leclerc,Ferrari,2026,17,Singapore Grand Prix,2,1:32.774,1:31.953,1:31.427,91.42699999999999,0.05909842075886296,0
+hamilton,Lewis Hamilton,Ferrari,2026,17,Singapore Grand Prix,3,1:32.429,1:31.529,1:31.496,91.496,0.13461306950630636,0
+antonelli,Andrea Kimi Antonelli,Mercedes,2026,17,Singapore Grand Prix,4,1:33.601,1:32.079,1:31.562,91.562,0.20684447265602035,0
+norris,Lando Norris,McLaren,2026,17,Singapore Grand Prix,5,1:32.775,1:31.895,1:31.712,91.712,0.3710067525417804,0
+russell,George Russell,Mercedes,2026,17,Singapore Grand Prix,6,1:33.617,1:32.212,1:31.747,91.747,0.40931128451511256,0
+piastri,Oscar Piastri,McLaren,2026,17,Singapore Grand Prix,7,1:33.076,1:32.245,1:31.860,91.86,0.532980202029032,0
+gasly,Pierre Gasly,Alpine F1 Team,2026,17,Singapore Grand Prix,8,1:33.182,1:32.602,1:32.225,92.225,0.9324417497510007,0
+lawson,Liam Lawson,RB F1 Team,2026,17,Singapore Grand Prix,9,1:32.885,1:32.319,1:32.369,92.319,1.0353167784794115,0
+arvid_lindblad,Arvid Lindblad,RB F1 Team,2026,17,Singapore Grand Prix,10,1:33.288,1:32.498,1:32.781,92.49799999999999,1.231217099143067,0
+hulkenberg,Nico Hülkenberg,Audi,2026,17,Singapore Grand Prix,11,1:33.147,1:32.784,,92.78399999999999,1.5442198461252055,0
+bearman,Oliver Bearman,Haas F1 Team,2026,17,Singapore Grand Prix,12,1:33.356,1:32.908,,92.908,1.6799273308307772,0
+ocon,Esteban Ocon,Haas F1 Team,2026,17,Singapore Grand Prix,13,1:33.803,1:33.323,,93.32300000000001,2.1341096385146585,0
+sainz,Carlos Sainz,Williams,2026,17,Singapore Grand Prix,14,1:33.774,1:33.526,,93.52600000000001,2.3562759239600384,0
+bortoleto,Gabriel Bortoleto,Audi,2026,17,Singapore Grand Prix,15,1:34.169,1:33.658,,93.658,2.5007387302594886,0
+colapinto,Franco Colapinto,Alpine F1 Team,2026,17,Singapore Grand Prix,16,1:33.261,1:33.787,,93.261,2.0662558961618727,0
+alonso,Fernando Alonso,Aston Martin,2026,17,Singapore Grand Prix,17,1:34.223,,,94.223,3.1190833178291077,0
+albon,Alexander Albon,Williams,2026,17,Singapore Grand Prix,18,1:34.289,,,94.289,3.191314720978844,0
+stroll,Lance Stroll,Aston Martin,2026,17,Singapore Grand Prix,19,1:34.946,,,94.946,3.9103455068783877,0
+perez,Sergio Pérez,Cadillac F1 Team,2026,17,Singapore Grand Prix,20,1:35.123,,,95.12299999999999,4.104056997143557,0
+bottas,Valtteri Bottas,Cadillac F1 Team,2026,17,Singapore Grand Prix,21,1:35.984,,,95.98400000000001,5.046348483687746,0
+hadjar,Isack Hadjar,Red Bull,2026,17,Singapore Grand Prix,22,,,,,,1

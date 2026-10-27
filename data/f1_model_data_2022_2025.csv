@@ -1,0 +1,1837 @@
+DriverId,FullName,TeamName,GridPosition,Position,Points,Status,Laps,Year,Round,EventName,Won
+leclerc,Charles Leclerc,Ferrari,1.0,1.0,26.0,Finished,57.0,2022,1,Bahrain Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,19.0,0.0,Fuel pressure,54.0,2022,1,Bahrain Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,2.0,18.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,18.0,0.0,Fuel pressure,56.0,2022,1,Bahrain Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,3.0,15.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,6.0,6.0,8.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,7.0,5.0,10.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+alonso,Fernando Alonso,Alpine,8.0,9.0,2.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+russell,George Russell,Mercedes,9.0,4.0,12.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,10.0,20.0,0.0,Power Unit,44.0,2022,1,Bahrain Grand Prix,0
+ocon,Esteban Ocon,Alpine,11.0,7.0,6.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,12.0,11.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+norris,Lando Norris,McLaren,13.0,15.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+albon,Alexander Albon,Williams,14.0,13.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,15.0,10.0,1.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,8.0,4.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+hulkenberg,Nico Hulkenberg,Aston Martin,17.0,17.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,18.0,14.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,12.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+latifi,Nicholas Latifi,Williams,20.0,16.0,0.0,Finished,57.0,2022,1,Bahrain Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,1.0,4.0,12.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,2.0,2.0,19.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,3.0,15.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,1.0,25.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,1
+ocon,Esteban Ocon,Alpine,5.0,6.0,8.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+russell,George Russell,Mercedes,6.0,5.0,10.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+alonso,Fernando Alonso,Alpine,7.0,16.0,0.0,Water pump,35.0,2022,2,Saudi Arabian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,8.0,15.0,0.0,Cooling system,36.0,2022,2,Saudi Arabian Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,9.0,8.0,4.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,10.0,9.0,2.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+norris,Lando Norris,McLaren,11.0,7.0,6.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,12.0,11.0,0.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,13.0,0.0,+1 Lap,49.0,2022,2,Saudi Arabian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,14.0,17.0,0.0,Gearbox,35.0,2022,2,Saudi Arabian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,15.0,10.0,1.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+albon,Alexander Albon,Williams,16.0,14.0,0.0,Collision damage,47.0,2022,2,Saudi Arabian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Aston Martin,17.0,12.0,0.0,Finished,50.0,2022,2,Saudi Arabian Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,18.0,0.0,Accident,14.0,2022,2,Saudi Arabian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,19.0,19.0,0.0,Power Unit,0.0,2022,2,Saudi Arabian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,1.0,26.0,Finished,58.0,2022,3,Australian Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,18.0,0.0,Fuel leak,38.0,2022,3,Australian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,3.0,2.0,18.0,Finished,58.0,2022,3,Australian Grand Prix,0
+norris,Lando Norris,McLaren,4.0,5.0,10.0,Finished,58.0,2022,3,Australian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,4.0,12.0,Finished,58.0,2022,3,Australian Grand Prix,0
+russell,George Russell,Mercedes,6.0,3.0,15.0,Finished,58.0,2022,3,Australian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,7.0,6.0,8.0,Finished,58.0,2022,3,Australian Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,7.0,6.0,Finished,58.0,2022,3,Australian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,9.0,20.0,0.0,Spun off,1.0,2022,3,Australian Grand Prix,0
+alonso,Fernando Alonso,Alpine,10.0,17.0,0.0,+1 Lap,57.0,2022,3,Australian Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,11.0,9.0,2.0,Finished,58.0,2022,3,Australian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,12.0,8.0,4.0,Finished,58.0,2022,3,Australian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,13.0,15.0,0.0,+1 Lap,57.0,2022,3,Australian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,14.0,11.0,0.0,Finished,58.0,2022,3,Australian Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,15.0,13.0,0.0,+1 Lap,57.0,2022,3,Australian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,14.0,0.0,+1 Lap,57.0,2022,3,Australian Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,17.0,19.0,0.0,Accident,22.0,2022,3,Australian Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,16.0,0.0,+1 Lap,57.0,2022,3,Australian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,12.0,0.0,Finished,58.0,2022,3,Australian Grand Prix,0
+albon,Alexander Albon,Williams,20.0,10.0,1.0,Finished,58.0,2022,3,Australian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,0.0,15.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,6.0,8.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,3.0,2.0,18.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,20.0,0.0,Collision,0.0,2022,4,Emilia Romagna Grand Prix,0
+norris,Lando Norris,McLaren,5.0,3.0,15.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,6.0,18.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,7.0,5.0,10.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,8.0,9.0,2.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+alonso,Fernando Alonso,Alpine,9.0,19.0,0.0,Collision damage,6.0,2022,4,Emilia Romagna Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,10.0,17.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+russell,George Russell,Mercedes,11.0,4.0,12.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,12.0,7.0,6.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,13.0,8.0,4.0,Finished,63.0,2022,4,Emilia Romagna Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,14.0,13.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,10.0,1.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+ocon,Esteban Ocon,Alpine,16.0,14.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,17.0,12.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+albon,Alexander Albon,Williams,18.0,11.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+latifi,Nicholas Latifi,Williams,19.0,16.0,0.0,+1 Lap,62.0,2022,4,Emilia Romagna Grand Prix,0
+stroll,Lance Stroll,Aston Martin,0.0,10.0,1.0,Finished,57.0,2022,5,Miami Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,0.0,17.0,0.0,Collision,54.0,2022,5,Miami Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,2.0,18.0,Finished,57.0,2022,5,Miami Grand Prix,0
+sainz,Carlos Sainz,Ferrari,2.0,3.0,15.0,Finished,57.0,2022,5,Miami Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,1.0,26.0,Finished,57.0,2022,5,Miami Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,4.0,4.0,12.0,Finished,57.0,2022,5,Miami Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,5.0,7.0,6.0,Finished,57.0,2022,5,Miami Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,6.0,8.0,Finished,57.0,2022,5,Miami Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,7.0,18.0,0.0,Suspension,45.0,2022,5,Miami Grand Prix,0
+norris,Lando Norris,McLaren,8.0,19.0,0.0,Collision,39.0,2022,5,Miami Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,9.0,12.0,0.0,Finished,57.0,2022,5,Miami Grand Prix,0
+alonso,Fernando Alonso,Alpine,11.0,11.0,0.0,Finished,57.0,2022,5,Miami Grand Prix,0
+russell,George Russell,Mercedes,12.0,5.0,10.0,Finished,57.0,2022,5,Miami Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,14.0,13.0,0.0,Finished,57.0,2022,5,Miami Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,15.0,15.0,0.0,Finished,57.0,2022,5,Miami Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,16.0,0.0,Front wing,56.0,2022,5,Miami Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,17.0,20.0,0.0,Water leak,6.0,2022,5,Miami Grand Prix,0
+albon,Alexander Albon,Williams,18.0,9.0,2.0,Finished,57.0,2022,5,Miami Grand Prix,0
+latifi,Nicholas Latifi,Williams,19.0,14.0,0.0,Finished,57.0,2022,5,Miami Grand Prix,0
+ocon,Esteban Ocon,Alpine,20.0,8.0,4.0,Finished,57.0,2022,5,Miami Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,20.0,0.0,Turbo,27.0,2022,6,Spanish Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,66.0,2022,6,Spanish Grand Prix,1
+sainz,Carlos Sainz,Ferrari,3.0,4.0,12.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+russell,George Russell,Mercedes,4.0,3.0,15.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,2.0,19.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,5.0,10.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,7.0,6.0,8.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,8.0,17.0,0.0,+2 Laps,64.0,2022,6,Spanish Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,9.0,12.0,0.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,10.0,14.0,0.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+norris,Lando Norris,McLaren,11.0,8.0,4.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,7.0,6.0,Finished,66.0,2022,6,Spanish Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,13.0,10.0,1.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,14.0,13.0,0.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,15.0,19.0,0.0,Power loss,28.0,2022,6,Spanish Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,16.0,11.0,0.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,15.0,0.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+albon,Alexander Albon,Williams,18.0,18.0,0.0,+2 Laps,64.0,2022,6,Spanish Grand Prix,0
+latifi,Nicholas Latifi,Williams,19.0,16.0,0.0,+2 Laps,64.0,2022,6,Spanish Grand Prix,0
+alonso,Fernando Alonso,Alpine,20.0,9.0,2.0,+1 Lap,65.0,2022,6,Spanish Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,4.0,12.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+sainz,Carlos Sainz,Ferrari,2.0,2.0,18.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,3.0,1.0,25.0,Finished,64.0,2022,7,Monaco Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,3.0,15.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+norris,Lando Norris,McLaren,5.0,6.0,9.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+russell,George Russell,Mercedes,6.0,5.0,10.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+alonso,Fernando Alonso,Alpine,7.0,7.0,6.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,8.0,8.0,4.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,9.0,10.0,1.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+ocon,Esteban Ocon,Alpine,10.0,12.0,0.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,11.0,17.0,0.0,+1 Lap,63.0,2022,7,Monaco Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,12.0,9.0,2.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,20.0,0.0,Water pressure,19.0,2022,7,Monaco Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,14.0,13.0,0.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,15.0,19.0,0.0,Accident,24.0,2022,7,Monaco Grand Prix,0
+albon,Alexander Albon,Williams,16.0,18.0,0.0,Mechanical,48.0,2022,7,Monaco Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,17.0,11.0,0.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+stroll,Lance Stroll,Aston Martin,18.0,14.0,0.0,Finished,64.0,2022,7,Monaco Grand Prix,0
+latifi,Nicholas Latifi,Williams,19.0,15.0,0.0,+1 Lap,63.0,2022,7,Monaco Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,20.0,16.0,0.0,+1 Lap,63.0,2022,7,Monaco Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,19.0,0.0,Power Unit,21.0,2022,8,Azerbaijan Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,2.0,2.0,19.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,1.0,25.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,1
+sainz,Carlos Sainz,Ferrari,4.0,20.0,0.0,Hydraulics,8.0,2022,8,Azerbaijan Grand Prix,0
+russell,George Russell,Mercedes,5.0,3.0,15.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,6.0,5.0,10.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,4.0,12.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,8.0,13.0,0.0,+1 Lap,50.0,2022,8,Azerbaijan Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,9.0,6.0,8.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+alonso,Fernando Alonso,Alpine,10.0,7.0,6.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+norris,Lando Norris,McLaren,11.0,9.0,2.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,12.0,8.0,4.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+ocon,Esteban Ocon,Alpine,13.0,10.0,1.0,Finished,51.0,2022,8,Azerbaijan Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,14.0,18.0,0.0,Hydraulics,23.0,2022,8,Azerbaijan Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,15.0,11.0,0.0,+1 Lap,50.0,2022,8,Azerbaijan Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,17.0,0.0,Power Unit,31.0,2022,8,Azerbaijan Grand Prix,0
+albon,Alexander Albon,Williams,17.0,12.0,0.0,+1 Lap,50.0,2022,8,Azerbaijan Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,15.0,0.0,+1 Lap,50.0,2022,8,Azerbaijan Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,16.0,0.0,Vibrations,46.0,2022,8,Azerbaijan Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,20.0,14.0,0.0,+1 Lap,50.0,2022,8,Azerbaijan Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,70.0,2022,9,Canadian Grand Prix,1
+alonso,Fernando Alonso,Alpine,2.0,9.0,2.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,2.0,19.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,4.0,3.0,15.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,5.0,17.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,6.0,19.0,0.0,Engine,18.0,2022,9,Canadian Grand Prix,0
+ocon,Esteban Ocon,Alpine,7.0,6.0,8.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+russell,George Russell,Mercedes,8.0,4.0,12.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,9.0,11.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,10.0,8.0,4.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,11.0,7.0,6.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+albon,Alexander Albon,Williams,12.0,13.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,13.0,20.0,0.0,Gearbox,7.0,2022,9,Canadian Grand Prix,0
+norris,Lando Norris,McLaren,14.0,15.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,15.0,14.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,16.0,12.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,10.0,1.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,16.0,0.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,19.0,5.0,10.0,Finished,70.0,2022,9,Canadian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,20.0,18.0,0.0,Accident,47.0,2022,9,Canadian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,1.0,1.0,25.0,Finished,52.0,2022,10,British Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,7.0,6.0,Finished,52.0,2022,10,British Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,4.0,12.0,Finished,52.0,2022,10,British Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,2.0,18.0,Finished,52.0,2022,10,British Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,3.0,16.0,Finished,52.0,2022,10,British Grand Prix,0
+norris,Lando Norris,McLaren,6.0,6.0,8.0,Finished,52.0,2022,10,British Grand Prix,0
+alonso,Fernando Alonso,Alpine,7.0,5.0,10.0,Finished,52.0,2022,10,British Grand Prix,0
+russell,George Russell,Mercedes,8.0,18.0,0.0,Collision,0.0,2022,10,British Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,9.0,19.0,0.0,Collision,0.0,2022,10,British Grand Prix,0
+latifi,Nicholas Latifi,Williams,10.0,12.0,0.0,Finished,52.0,2022,10,British Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,11.0,16.0,0.0,Collision damage,26.0,2022,10,British Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,12.0,17.0,0.0,Gearbox,20.0,2022,10,British Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,13.0,14.0,0.0,Finished,52.0,2022,10,British Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,14.0,13.0,0.0,Finished,52.0,2022,10,British Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,15.0,0.0,Fuel pump,37.0,2022,10,British Grand Prix,0
+albon,Alexander Albon,Williams,16.0,20.0,0.0,Collision,0.0,2022,10,British Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,10.0,1.0,Finished,52.0,2022,10,British Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,18.0,9.0,2.0,Finished,52.0,2022,10,British Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,19.0,8.0,4.0,Finished,52.0,2022,10,British Grand Prix,0
+stroll,Lance Stroll,Aston Martin,20.0,11.0,0.0,Finished,52.0,2022,10,British Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,0.0,11.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,2.0,19.0,Finished,71.0,2022,11,Austrian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,2.0,1.0,25.0,Finished,71.0,2022,11,Austrian Grand Prix,1
+sainz,Carlos Sainz,Ferrari,3.0,18.0,0.0,Power Unit,56.0,2022,11,Austrian Grand Prix,0
+russell,George Russell,Mercedes,4.0,4.0,12.0,Finished,71.0,2022,11,Austrian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,20.0,0.0,Collision damage,24.0,2022,11,Austrian Grand Prix,0
+ocon,Esteban Ocon,Alpine,6.0,5.0,10.0,Finished,71.0,2022,11,Austrian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,7.0,8.0,4.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,8.0,3.0,15.0,Finished,71.0,2022,11,Austrian Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,9.0,6.0,8.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+norris,Lando Norris,McLaren,10.0,7.0,6.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,11.0,9.0,2.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,12.0,13.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,13.0,14.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,14.0,15.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+albon,Alexander Albon,Williams,15.0,12.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,16.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+latifi,Nicholas Latifi,Williams,17.0,19.0,0.0,Undertray,48.0,2022,11,Austrian Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,18.0,17.0,0.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+alonso,Fernando Alonso,Alpine,19.0,10.0,1.0,+1 Lap,70.0,2022,11,Austrian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,19.0,0.0,Accident,17.0,2022,12,French Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,53.0,2022,12,French Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,3.0,4.0,12.0,Finished,53.0,2022,12,French Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,4.0,2.0,18.0,Finished,53.0,2022,12,French Grand Prix,0
+norris,Lando Norris,McLaren,5.0,7.0,6.0,Finished,53.0,2022,12,French Grand Prix,0
+russell,George Russell,Mercedes,6.0,3.0,15.0,Finished,53.0,2022,12,French Grand Prix,0
+alonso,Fernando Alonso,Alpine,7.0,6.0,8.0,Finished,53.0,2022,12,French Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,8.0,20.0,0.0,Undertray,17.0,2022,12,French Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,9.0,9.0,2.0,Finished,53.0,2022,12,French Grand Prix,0
+ocon,Esteban Ocon,Alpine,10.0,8.0,4.0,Finished,53.0,2022,12,French Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,11.0,14.0,0.0,Finished,53.0,2022,12,French Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,12.0,11.0,0.0,Finished,53.0,2022,12,French Grand Prix,0
+albon,Alexander Albon,Williams,13.0,13.0,0.0,Finished,53.0,2022,12,French Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,14.0,12.0,0.0,Finished,53.0,2022,12,French Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,10.0,1.0,Finished,53.0,2022,12,French Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,16.0,16.0,0.0,+6 Laps,47.0,2022,12,French Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,17.0,15.0,0.0,Finished,53.0,2022,12,French Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,17.0,0.0,Collision damage,40.0,2022,12,French Grand Prix,0
+sainz,Carlos Sainz,Ferrari,19.0,5.0,11.0,Finished,53.0,2022,12,French Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,20.0,18.0,0.0,Collision damage,37.0,2022,12,French Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,0.0,12.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+russell,George Russell,Mercedes,1.0,3.0,15.0,Finished,70.0,2022,13,Hungarian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,2.0,4.0,12.0,Finished,70.0,2022,13,Hungarian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,6.0,8.0,Finished,70.0,2022,13,Hungarian Grand Prix,0
+norris,Lando Norris,McLaren,4.0,7.0,6.0,Finished,70.0,2022,13,Hungarian Grand Prix,0
+ocon,Esteban Ocon,Alpine,5.0,9.0,2.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+alonso,Fernando Alonso,Alpine,6.0,8.0,4.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,2.0,19.0,Finished,70.0,2022,13,Hungarian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,8.0,20.0,0.0,Power Unit,65.0,2022,13,Hungarian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,9.0,15.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,10.0,1.0,25.0,Finished,70.0,2022,13,Hungarian Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,11.0,5.0,10.0,Finished,70.0,2022,13,Hungarian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,12.0,13.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,16.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,11.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,15.0,14.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,19.0,0.0,+2 Laps,68.0,2022,13,Hungarian Grand Prix,0
+albon,Alexander Albon,Williams,17.0,17.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,18.0,10.0,1.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+latifi,Nicholas Latifi,Williams,19.0,18.0,0.0,+1 Lap,69.0,2022,13,Hungarian Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,0.0,9.0,2.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,0.0,13.0,0.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,1.0,3.0,15.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,2.0,2.0,18.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+alonso,Fernando Alonso,Alpine,3.0,5.0,10.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,4.0,20.0,0.0,Collision damage,0.0,2022,14,Belgian Grand Prix,0
+russell,George Russell,Mercedes,5.0,4.0,12.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+albon,Alexander Albon,Williams,6.0,10.0,1.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,7.0,15.0,0.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,9.0,11.0,0.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,10.0,8.0,4.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+latifi,Nicholas Latifi,Williams,11.0,18.0,0.0,+1 Lap,43.0,2022,14,Belgian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,12.0,16.0,0.0,+1 Lap,43.0,2022,14,Belgian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,13.0,19.0,0.0,Accident,1.0,2022,14,Belgian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,14.0,1.0,26.0,Finished,44.0,2022,14,Belgian Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,15.0,6.0,8.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+ocon,Esteban Ocon,Alpine,16.0,7.0,6.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+norris,Lando Norris,McLaren,17.0,12.0,0.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,18.0,14.0,0.0,Finished,44.0,2022,14,Belgian Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,19.0,17.0,0.0,+1 Lap,43.0,2022,14,Belgian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,72.0,2022,15,Dutch Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,3.0,15.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,8.0,4.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,4.0,4.0,12.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,5.0,10.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+russell,George Russell,Mercedes,6.0,2.0,18.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+norris,Lando Norris,McLaren,7.0,7.0,6.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,8.0,13.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,9.0,20.0,0.0,Differential,43.0,2022,15,Dutch Grand Prix,0
+stroll,Lance Stroll,Aston Martin,10.0,10.0,1.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,11.0,11.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,9.0,2.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+alonso,Fernando Alonso,Alpine,13.0,6.0,8.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,14.0,16.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+albon,Alexander Albon,Williams,15.0,12.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,16.0,19.0,0.0,Engine,53.0,2022,15,Dutch Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,17.0,17.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,18.0,15.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,19.0,14.0,0.0,Finished,72.0,2022,15,Dutch Grand Prix,0
+latifi,Nicholas Latifi,Williams,20.0,18.0,0.0,+1 Lap,71.0,2022,15,Dutch Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,2.0,18.0,Finished,53.0,2022,16,Italian Grand Prix,0
+russell,George Russell,Mercedes,2.0,3.0,15.0,Finished,53.0,2022,16,Italian Grand Prix,0
+norris,Lando Norris,McLaren,3.0,7.0,6.0,Finished,53.0,2022,16,Italian Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,4.0,17.0,0.0,Oil leak,45.0,2022,16,Italian Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,5.0,8.0,4.0,Finished,53.0,2022,16,Italian Grand Prix,0
+alonso,Fernando Alonso,Alpine,6.0,19.0,0.0,Water pressure,31.0,2022,16,Italian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,7.0,1.0,25.0,Finished,53.0,2022,16,Italian Grand Prix,1
+de_vries,Nyck De Vries,Williams,8.0,9.0,2.0,Finished,53.0,2022,16,Italian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,9.0,10.0,1.0,Finished,53.0,2022,16,Italian Grand Prix,0
+latifi,Nicholas Latifi,Williams,10.0,15.0,0.0,+1 Lap,52.0,2022,16,Italian Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,11.0,20.0,0.0,Engine,10.0,2022,16,Italian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,12.0,18.0,0.0,Engine,39.0,2022,16,Italian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,13.0,6.0,9.0,Finished,53.0,2022,16,Italian Grand Prix,0
+ocon,Esteban Ocon,Alpine,14.0,11.0,0.0,Finished,53.0,2022,16,Italian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,15.0,13.0,0.0,+1 Lap,52.0,2022,16,Italian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,16.0,0.0,+1 Lap,52.0,2022,16,Italian Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,17.0,12.0,0.0,Finished,53.0,2022,16,Italian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,18.0,4.0,12.0,Finished,53.0,2022,16,Italian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,19.0,5.0,10.0,Finished,53.0,2022,16,Italian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,20.0,14.0,0.0,+1 Lap,52.0,2022,16,Italian Grand Prix,0
+russell,George Russell,Mercedes,0.0,14.0,0.0,+2 Laps,57.0,2022,17,Singapore Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,2.0,18.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,2.0,1.0,25.0,Finished,59.0,2022,17,Singapore Grand Prix,1
+hamilton,Lewis Hamilton,Mercedes,3.0,9.0,2.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,3.0,15.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+alonso,Fernando Alonso,Alpine,5.0,18.0,0.0,Engine,20.0,2022,17,Singapore Grand Prix,0
+norris,Lando Norris,McLaren,6.0,4.0,12.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,7.0,10.0,1.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,8.0,7.0,6.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,9.0,12.0,0.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,10.0,15.0,0.0,Accident,34.0,2022,17,Singapore Grand Prix,0
+stroll,Lance Stroll,Aston Martin,11.0,6.0,8.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,12.0,13.0,0.0,+1 Lap,58.0,2022,17,Singapore Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,13.0,8.0,4.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,14.0,20.0,0.0,Collision,6.0,2022,17,Singapore Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,15.0,11.0,0.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,16.0,5.0,10.0,Finished,59.0,2022,17,Singapore Grand Prix,0
+ocon,Esteban Ocon,Alpine,17.0,16.0,0.0,Engine,26.0,2022,17,Singapore Grand Prix,0
+albon,Alexander Albon,Williams,18.0,17.0,0.0,Collision damage,25.0,2022,17,Singapore Grand Prix,0
+latifi,Nicholas Latifi,Williams,19.0,19.0,0.0,Collision damage,7.0,2022,17,Singapore Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,28.0,2022,18,Japanese Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,3.0,15.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,19.0,0.0,Accident,0.0,2022,18,Japanese Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,2.0,18.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+ocon,Esteban Ocon,Alpine,5.0,4.0,12.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,5.0,10.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+alonso,Fernando Alonso,Alpine,7.0,7.0,6.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+russell,George Russell,Mercedes,8.0,8.0,4.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,9.0,6.0,8.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+norris,Lando Norris,McLaren,10.0,10.0,1.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,11.0,11.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,12.0,15.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,13.0,13.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,14.0,16.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,15.0,17.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+albon,Alexander Albon,Williams,16.0,20.0,0.0,Hydraulics,0.0,2022,18,Japanese Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,17.0,18.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,18.0,14.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,12.0,0.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+latifi,Nicholas Latifi,Williams,20.0,9.0,2.0,Finished,28.0,2022,18,Japanese Grand Prix,0
+ocon,Esteban Ocon,Alpine,0.0,11.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+sainz,Carlos Sainz,Ferrari,1.0,20.0,0.0,Collision damage,1.0,2022,19,United States Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,56.0,2022,19,United States Grand Prix,1
+hamilton,Lewis Hamilton,Mercedes,3.0,2.0,18.0,Finished,56.0,2022,19,United States Grand Prix,0
+russell,George Russell,Mercedes,4.0,5.0,11.0,Finished,56.0,2022,19,United States Grand Prix,0
+stroll,Lance Stroll,Aston Martin,5.0,18.0,0.0,Collision,21.0,2022,19,United States Grand Prix,0
+norris,Lando Norris,McLaren,6.0,6.0,8.0,Finished,56.0,2022,19,United States Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,7.0,19.0,0.0,Spun off,16.0,2022,19,United States Grand Prix,0
+albon,Alexander Albon,Williams,8.0,13.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,4.0,12.0,Finished,56.0,2022,19,United States Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,10.0,8.0,4.0,Finished,56.0,2022,19,United States Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,11.0,14.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,12.0,3.0,15.0,Finished,56.0,2022,19,United States Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,9.0,2.0,Finished,56.0,2022,19,United States Grand Prix,0
+alonso,Fernando Alonso,Alpine,14.0,7.0,6.0,Finished,56.0,2022,19,United States Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,15.0,16.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,16.0,15.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+latifi,Nicholas Latifi,Williams,17.0,17.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,18.0,12.0,0.0,Finished,56.0,2022,19,United States Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,19.0,10.0,1.0,Finished,56.0,2022,19,United States Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,71.0,2022,20,Mexico City Grand Prix,1
+russell,George Russell,Mercedes,2.0,4.0,13.0,Finished,71.0,2022,20,Mexico City Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,2.0,18.0,Finished,71.0,2022,20,Mexico City Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,3.0,15.0,Finished,71.0,2022,20,Mexico City Grand Prix,0
+sainz,Carlos Sainz,Ferrari,5.0,5.0,10.0,Finished,71.0,2022,20,Mexico City Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,6.0,10.0,1.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,7.0,6.0,8.0,Finished,71.0,2022,20,Mexico City Grand Prix,0
+norris,Lando Norris,McLaren,8.0,9.0,2.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+alonso,Fernando Alonso,Alpine,9.0,19.0,0.0,Engine,63.0,2022,20,Mexico City Grand Prix,0
+ocon,Esteban Ocon,Alpine,10.0,8.0,4.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,11.0,7.0,6.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,12.0,13.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,13.0,20.0,0.0,Collision damage,50.0,2022,20,Mexico City Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,14.0,11.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,15.0,16.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,16.0,14.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+albon,Alexander Albon,Williams,17.0,12.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,18.0,0.0,+2 Laps,69.0,2022,20,Mexico City Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,19.0,17.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+stroll,Lance Stroll,Aston Martin,20.0,15.0,0.0,+1 Lap,70.0,2022,20,Mexico City Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,0.0,17.0,0.0,+1 Lap,70.0,2022,21,São Paulo Grand Prix,0
+russell,George Russell,Mercedes,1.0,1.0,26.0,Finished,71.0,2022,21,São Paulo Grand Prix,1
+hamilton,Lewis Hamilton,Mercedes,2.0,2.0,18.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,6.0,8.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,7.0,6.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,5.0,4.0,12.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+norris,Lando Norris,McLaren,6.0,18.0,0.0,Gearbox,50.0,2022,21,São Paulo Grand Prix,0
+sainz,Carlos Sainz,Ferrari,7.0,3.0,15.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,8.0,19.0,0.0,Collision,0.0,2022,21,São Paulo Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,9.0,11.0,0.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,10.0,14.0,0.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,11.0,20.0,0.0,Collision,0.0,2022,21,São Paulo Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,12.0,13.0,0.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,13.0,12.0,0.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,14.0,9.0,2.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,10.0,1.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+ocon,Esteban Ocon,Alpine,16.0,8.0,4.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+alonso,Fernando Alonso,Alpine,17.0,5.0,10.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+latifi,Nicholas Latifi,Williams,18.0,16.0,0.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+albon,Alexander Albon,Williams,19.0,15.0,0.0,Finished,71.0,2022,21,São Paulo Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,2.0,3.0,15.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,2.0,18.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,4.0,12.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,18.0,0.0,Hydraulics,55.0,2022,22,Abu Dhabi Grand Prix,0
+russell,George Russell,Mercedes,6.0,5.0,10.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+norris,Lando Norris,McLaren,7.0,6.0,9.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,7.0,6.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+vettel,Sebastian Vettel,Aston Martin,9.0,10.0,1.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+alonso,Fernando Alonso,Alpine,10.0,20.0,0.0,Water leak,27.0,2022,22,Abu Dhabi Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,11.0,11.0,0.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+mick_schumacher,Mick Schumacher,Haas F1 Team,12.0,16.0,0.0,+1 Lap,57.0,2022,22,Abu Dhabi Grand Prix,0
+ricciardo,Daniel Ricciardo,McLaren,13.0,9.0,2.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,8.0,4.0,Finished,58.0,2022,22,Abu Dhabi Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,15.0,12.0,0.0,+1 Lap,57.0,2022,22,Abu Dhabi Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,17.0,0.0,+1 Lap,57.0,2022,22,Abu Dhabi Grand Prix,0
+gasly,Pierre Gasly,AlphaTauri,17.0,14.0,0.0,+1 Lap,57.0,2022,22,Abu Dhabi Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,18.0,15.0,0.0,+1 Lap,57.0,2022,22,Abu Dhabi Grand Prix,0
+albon,Alexander Albon,Williams,19.0,13.0,0.0,+1 Lap,57.0,2022,22,Abu Dhabi Grand Prix,0
+latifi,Nicholas Latifi,Williams,20.0,19.0,0.0,Collision damage,55.0,2022,22,Abu Dhabi Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,57.0,2023,1,Bahrain Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,2.0,2.0,18.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,19.0,0.0,Retired,39.0,2023,1,Bahrain Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,4.0,12.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,5.0,3.0,15.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+russell,George Russell,Mercedes,6.0,7.0,6.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,5.0,10.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+stroll,Lance Stroll,Aston Martin,8.0,6.0,8.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+ocon,Esteban Ocon,Alpine,9.0,18.0,0.0,Retired,41.0,2023,1,Bahrain Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,15.0,0.0,Lapped,56.0,2023,1,Bahrain Grand Prix,0
+norris,Lando Norris,McLaren,11.0,17.0,0.0,Lapped,55.0,2023,1,Bahrain Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,12.0,8.0,4.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,13.0,16.0,0.0,Lapped,56.0,2023,1,Bahrain Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,14.0,11.0,0.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+albon,Alexander Albon,Williams,15.0,10.0,1.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+sargeant,Logan Sargeant,Williams,16.0,12.0,0.0,Lapped,56.0,2023,1,Bahrain Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,13.0,0.0,Lapped,56.0,2023,1,Bahrain Grand Prix,0
+piastri,Oscar Piastri,McLaren,18.0,20.0,0.0,Retired,13.0,2023,1,Bahrain Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,19.0,14.0,0.0,Lapped,56.0,2023,1,Bahrain Grand Prix,0
+gasly,Pierre Gasly,Alpine,20.0,9.0,2.0,Finished,57.0,2023,1,Bahrain Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,1.0,1.0,25.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,1
+alonso,Fernando Alonso,Aston Martin,2.0,3.0,15.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+russell,George Russell,Mercedes,3.0,4.0,12.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,6.0,8.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,5.0,20.0,0.0,Retired,16.0,2023,2,Saudi Arabian Grand Prix,0
+ocon,Esteban Ocon,Alpine,6.0,8.0,4.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,5.0,10.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+piastri,Oscar Piastri,McLaren,8.0,15.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,9.0,2.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,12.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,11.0,13.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,12.0,7.0,6.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,10.0,1.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,14.0,18.0,0.0,Lapped,49.0,2023,2,Saudi Arabian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,15.0,2.0,19.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,11.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+albon,Alexander Albon,Williams,17.0,19.0,0.0,Retired,27.0,2023,2,Saudi Arabian Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,18.0,14.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+norris,Lando Norris,McLaren,19.0,17.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,16.0,0.0,Finished,50.0,2023,2,Saudi Arabian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,58.0,2023,3,Australian Grand Prix,1
+russell,George Russell,Mercedes,2.0,18.0,0.0,Retired,17.0,2023,3,Australian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,2.0,18.0,Finished,58.0,2023,3,Australian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,4.0,3.0,15.0,Finished,58.0,2023,3,Australian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,5.0,12.0,0.0,Finished,58.0,2023,3,Australian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,6.0,4.0,12.0,Finished,58.0,2023,3,Australian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,7.0,20.0,0.0,Retired,0.0,2023,3,Australian Grand Prix,0
+albon,Alexander Albon,Williams,8.0,19.0,0.0,Retired,6.0,2023,3,Australian Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,13.0,0.0,Retired,56.0,2023,3,Australian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,7.0,6.0,Finished,58.0,2023,3,Australian Grand Prix,0
+ocon,Esteban Ocon,Alpine,11.0,14.0,0.0,Retired,56.0,2023,3,Australian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,12.0,10.0,1.0,Finished,58.0,2023,3,Australian Grand Prix,0
+norris,Lando Norris,McLaren,13.0,6.0,8.0,Finished,58.0,2023,3,Australian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,14.0,17.0,0.0,Retired,52.0,2023,3,Australian Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,15.0,15.0,0.0,Retired,56.0,2023,3,Australian Grand Prix,0
+piastri,Oscar Piastri,McLaren,16.0,8.0,4.0,Finished,58.0,2023,3,Australian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,17.0,9.0,2.0,Finished,58.0,2023,3,Australian Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,16.0,0.0,Retired,56.0,2023,3,Australian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,19.0,11.0,0.0,Finished,58.0,2023,3,Australian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,20.0,5.0,11.0,Finished,58.0,2023,3,Australian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,3.0,15.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,3.0,1.0,25.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,1
+sainz,Carlos Sainz,Ferrari,4.0,5.0,10.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,6.0,8.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,6.0,4.0,12.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+norris,Lando Norris,McLaren,7.0,9.0,2.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,8.0,10.0,1.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+stroll,Lance Stroll,Aston Martin,9.0,7.0,6.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+piastri,Oscar Piastri,McLaren,10.0,11.0,0.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+russell,George Russell,Mercedes,11.0,8.0,5.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+albon,Alexander Albon,Williams,12.0,12.0,0.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,13.0,18.0,0.0,Lapped,50.0,2023,4,Azerbaijan Grand Prix,0
+sargeant,Logan Sargeant,Williams,14.0,16.0,0.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,15.0,19.0,0.0,Retired,36.0,2023,4,Azerbaijan Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,13.0,0.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+gasly,Pierre Gasly,Alpine,17.0,14.0,0.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,18.0,20.0,0.0,Retired,9.0,2023,4,Azerbaijan Grand Prix,0
+ocon,Esteban Ocon,Alpine,19.0,15.0,0.0,Finished,51.0,2023,4,Azerbaijan Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,20.0,17.0,0.0,Lapped,50.0,2023,4,Azerbaijan Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,1.0,2.0,18.0,Finished,57.0,2023,5,Miami Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,2.0,3.0,15.0,Finished,57.0,2023,5,Miami Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,5.0,10.0,Finished,57.0,2023,5,Miami Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,4.0,10.0,1.0,Finished,57.0,2023,5,Miami Grand Prix,0
+gasly,Pierre Gasly,Alpine,5.0,8.0,4.0,Finished,57.0,2023,5,Miami Grand Prix,0
+russell,George Russell,Mercedes,6.0,4.0,12.0,Finished,57.0,2023,5,Miami Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,7.0,7.0,6.0,Finished,57.0,2023,5,Miami Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,9.0,2.0,Finished,57.0,2023,5,Miami Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,9.0,1.0,26.0,Finished,57.0,2023,5,Miami Grand Prix,1
+bottas,Valtteri Bottas,Alfa Romeo,10.0,13.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+albon,Alexander Albon,Williams,11.0,14.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,12.0,15.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,13.0,6.0,8.0,Finished,57.0,2023,5,Miami Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,14.0,16.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,15.0,18.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+norris,Lando Norris,McLaren,16.0,17.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,17.0,11.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+stroll,Lance Stroll,Aston Martin,18.0,12.0,0.0,Finished,57.0,2023,5,Miami Grand Prix,0
+piastri,Oscar Piastri,McLaren,19.0,19.0,0.0,Lapped,56.0,2023,5,Miami Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,20.0,0.0,Lapped,56.0,2023,5,Miami Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,78.0,2023,6,Monaco Grand Prix,1
+alonso,Fernando Alonso,Aston Martin,2.0,2.0,18.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+ocon,Esteban Ocon,Alpine,3.0,3.0,15.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,8.0,4.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,4.0,13.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,6.0,8.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+gasly,Pierre Gasly,Alpine,7.0,7.0,6.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+russell,George Russell,Mercedes,8.0,5.0,10.0,Finished,78.0,2023,6,Monaco Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,9.0,15.0,0.0,Lapped,76.0,2023,6,Monaco Grand Prix,0
+norris,Lando Norris,McLaren,10.0,9.0,2.0,Lapped,77.0,2023,6,Monaco Grand Prix,0
+piastri,Oscar Piastri,McLaren,11.0,10.0,1.0,Lapped,77.0,2023,6,Monaco Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,12.0,12.0,0.0,Lapped,77.0,2023,6,Monaco Grand Prix,0
+albon,Alexander Albon,Williams,13.0,14.0,0.0,Lapped,77.0,2023,6,Monaco Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,20.0,0.0,Retired,53.0,2023,6,Monaco Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,15.0,11.0,0.0,Lapped,77.0,2023,6,Monaco Grand Prix,0
+sargeant,Logan Sargeant,Williams,16.0,18.0,0.0,Lapped,76.0,2023,6,Monaco Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,19.0,0.0,Retired,70.0,2023,6,Monaco Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,18.0,17.0,0.0,Lapped,76.0,2023,6,Monaco Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,19.0,13.0,0.0,Lapped,77.0,2023,6,Monaco Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,20.0,16.0,0.0,Lapped,76.0,2023,6,Monaco Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,66.0,2023,7,Spanish Grand Prix,1
+sainz,Carlos Sainz,Ferrari,2.0,5.0,10.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+norris,Lando Norris,McLaren,3.0,17.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,4.0,2.0,18.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+stroll,Lance Stroll,Aston Martin,5.0,6.0,8.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+ocon,Esteban Ocon,Alpine,6.0,8.0,4.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,7.0,15.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,7.0,6.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+piastri,Oscar Piastri,McLaren,9.0,13.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,10.0,1.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,11.0,4.0,12.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+russell,George Russell,Mercedes,12.0,3.0,15.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,13.0,9.0,2.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,14.0,14.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,15.0,12.0,0.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,16.0,19.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,18.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+albon,Alexander Albon,Williams,18.0,16.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,19.0,11.0,0.0,Finished,66.0,2023,7,Spanish Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,20.0,0.0,Lapped,65.0,2023,7,Spanish Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,70.0,2023,8,Canadian Grand Prix,1
+alonso,Fernando Alonso,Aston Martin,2.0,2.0,18.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,3.0,15.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+russell,George Russell,Mercedes,4.0,19.0,0.0,Retired,53.0,2023,8,Canadian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,5.0,15.0,0.0,Lapped,69.0,2023,8,Canadian Grand Prix,0
+ocon,Esteban Ocon,Alpine,6.0,8.0,4.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+norris,Lando Norris,McLaren,7.0,13.0,0.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+piastri,Oscar Piastri,McLaren,8.0,11.0,0.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+albon,Alexander Albon,Williams,9.0,7.0,6.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,10.0,4.0,12.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,11.0,5.0,10.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,12.0,6.0,9.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,17.0,0.0,Lapped,69.0,2023,8,Canadian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,14.0,10.0,1.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+gasly,Pierre Gasly,Alpine,15.0,12.0,0.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,9.0,2.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,17.0,18.0,0.0,Lapped,69.0,2023,8,Canadian Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,20.0,0.0,Retired,6.0,2023,8,Canadian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,19.0,14.0,0.0,Finished,70.0,2023,8,Canadian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,20.0,16.0,0.0,Lapped,69.0,2023,8,Canadian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,71.0,2023,9,Austrian Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,2.0,18.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,6.0,8.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+norris,Lando Norris,McLaren,4.0,4.0,12.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,8.0,4.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,6.0,9.0,2.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,5.0,10.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,8.0,20.0,0.0,Retired,12.0,2023,9,Austrian Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,10.0,1.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+albon,Alexander Albon,Williams,10.0,11.0,0.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+russell,George Russell,Mercedes,11.0,7.0,6.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,14.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+piastri,Oscar Piastri,McLaren,13.0,16.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,14.0,15.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,15.0,3.0,15.0,Finished,71.0,2023,9,Austrian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,19.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,17.0,12.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,13.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,19.0,18.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,20.0,17.0,0.0,Lapped,70.0,2023,9,Austrian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,52.0,2023,10,British Grand Prix,1
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,52.0,2023,10,British Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,4.0,12.0,Finished,52.0,2023,10,British Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,9.0,2.0,Finished,52.0,2023,10,British Grand Prix,0
+sainz,Carlos Sainz,Ferrari,5.0,10.0,1.0,Finished,52.0,2023,10,British Grand Prix,0
+russell,George Russell,Mercedes,6.0,5.0,10.0,Finished,52.0,2023,10,British Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,3.0,15.0,Finished,52.0,2023,10,British Grand Prix,0
+albon,Alexander Albon,Williams,8.0,8.0,4.0,Finished,52.0,2023,10,British Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,9.0,7.0,6.0,Finished,52.0,2023,10,British Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,18.0,0.0,Retired,46.0,2023,10,British Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,11.0,13.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+stroll,Lance Stroll,Aston Martin,12.0,14.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+ocon,Esteban Ocon,Alpine,13.0,20.0,0.0,Retired,9.0,2023,10,British Grand Prix,0
+sargeant,Logan Sargeant,Williams,14.0,11.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,15.0,6.0,8.0,Finished,52.0,2023,10,British Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,16.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,17.0,15.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+de_vries,Nyck De Vries,AlphaTauri,18.0,17.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,19.0,19.0,0.0,Retired,31.0,2023,10,British Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,20.0,12.0,0.0,Finished,52.0,2023,10,British Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,1.0,4.0,12.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,26.0,Finished,70.0,2023,11,Hungarian Grand Prix,1
+norris,Lando Norris,McLaren,3.0,2.0,18.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+piastri,Oscar Piastri,McLaren,4.0,5.0,10.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,5.0,16.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,7.0,6.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,7.0,12.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,9.0,2.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,3.0,15.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,14.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,11.0,8.0,4.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,19.0,0.0,Retired,2.0,2023,11,Hungarian Grand Prix,0
+ricciardo,Daniel Ricciardo,AlphaTauri,13.0,13.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,10.0,1.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+gasly,Pierre Gasly,Alpine,15.0,20.0,0.0,Retired,1.0,2023,11,Hungarian Grand Prix,0
+albon,Alexander Albon,Williams,16.0,11.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,17.0,15.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+russell,George Russell,Mercedes,18.0,6.0,8.0,Finished,70.0,2023,11,Hungarian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,19.0,17.0,0.0,Lapped,69.0,2023,11,Hungarian Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,18.0,0.0,Retired,67.0,2023,11,Hungarian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,3.0,15.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,2.0,2.0,18.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,4.0,13.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,19.0,0.0,Retired,23.0,2023,12,Belgian Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,20.0,0.0,Retired,0.0,2023,12,Belgian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,6.0,1.0,25.0,Finished,44.0,2023,12,Belgian Grand Prix,1
+norris,Lando Norris,McLaren,7.0,7.0,6.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+russell,George Russell,Mercedes,8.0,6.0,8.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,9.0,5.0,10.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,10.0,9.0,2.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,11.0,10.0,1.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+gasly,Pierre Gasly,Alpine,12.0,11.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,13.0,12.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+ocon,Esteban Ocon,Alpine,14.0,8.0,4.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+albon,Alexander Albon,Williams,15.0,14.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,15.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,17.0,13.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,17.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+ricciardo,Daniel Ricciardo,AlphaTauri,19.0,16.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,20.0,18.0,0.0,Finished,44.0,2023,12,Belgian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,0.0,16.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,72.0,2023,13,Dutch Grand Prix,1
+norris,Lando Norris,McLaren,2.0,7.0,6.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+russell,George Russell,Mercedes,3.0,17.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+albon,Alexander Albon,Williams,4.0,8.0,4.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,5.0,2.0,19.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+sainz,Carlos Sainz,Ferrari,6.0,5.0,10.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,7.0,4.0,12.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+piastri,Oscar Piastri,McLaren,8.0,9.0,2.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,9.0,19.0,0.0,Undertray,41.0,2023,13,Dutch Grand Prix,0
+sargeant,Logan Sargeant,Williams,10.0,20.0,0.0,Accident,14.0,2023,13,Dutch Grand Prix,0
+stroll,Lance Stroll,Aston Martin,11.0,11.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+gasly,Pierre Gasly,Alpine,12.0,3.0,15.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,13.0,6.0,8.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,14.0,12.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,15.0,18.0,0.0,Accident,62.0,2023,13,Dutch Grand Prix,0
+ocon,Esteban Ocon,Alpine,16.0,10.0,1.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,17.0,15.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,18.0,14.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+lawson,Liam Lawson,AlphaTauri,19.0,13.0,0.0,Finished,72.0,2023,13,Dutch Grand Prix,0
+sainz,Carlos Sainz,Ferrari,1.0,3.0,15.0,Finished,51.0,2023,14,Italian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,51.0,2023,14,Italian Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,3.0,4.0,12.0,Finished,51.0,2023,14,Italian Grand Prix,0
+russell,George Russell,Mercedes,4.0,5.0,10.0,Finished,51.0,2023,14,Italian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,2.0,18.0,Finished,51.0,2023,14,Italian Grand Prix,0
+albon,Alexander Albon,Williams,6.0,7.0,6.0,Finished,51.0,2023,14,Italian Grand Prix,0
+piastri,Oscar Piastri,McLaren,7.0,12.0,0.0,Finished,51.0,2023,14,Italian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,8.0,6.0,8.0,Finished,51.0,2023,14,Italian Grand Prix,0
+norris,Lando Norris,McLaren,9.0,8.0,4.0,Finished,51.0,2023,14,Italian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,9.0,2.0,Finished,51.0,2023,14,Italian Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,11.0,20.0,0.0,Did not start,0.0,2023,14,Italian Grand Prix,0
+lawson,Liam Lawson,AlphaTauri,12.0,11.0,0.0,Finished,51.0,2023,14,Italian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,13.0,17.0,0.0,Lapped,50.0,2023,14,Italian Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,14.0,10.0,1.0,Finished,51.0,2023,14,Italian Grand Prix,0
+sargeant,Logan Sargeant,Williams,15.0,13.0,0.0,Finished,51.0,2023,14,Italian Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,16.0,14.0,0.0,Finished,51.0,2023,14,Italian Grand Prix,0
+gasly,Pierre Gasly,Alpine,17.0,15.0,0.0,Finished,51.0,2023,14,Italian Grand Prix,0
+ocon,Esteban Ocon,Alpine,18.0,19.0,0.0,Retired,39.0,2023,14,Italian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,19.0,18.0,0.0,Lapped,50.0,2023,14,Italian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,20.0,16.0,0.0,Finished,51.0,2023,14,Italian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,1.0,1.0,25.0,Finished,62.0,2023,15,Singapore Grand Prix,1
+russell,George Russell,Mercedes,2.0,16.0,0.0,Retired,61.0,2023,15,Singapore Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,4.0,12.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+norris,Lando Norris,McLaren,4.0,2.0,18.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,3.0,16.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,6.0,10.0,1.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,15.0,0.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,18.0,0.0,Retired,42.0,2023,15,Singapore Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,9.0,13.0,0.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+lawson,Liam Lawson,AlphaTauri,10.0,9.0,2.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,11.0,5.0,10.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+gasly,Pierre Gasly,Alpine,12.0,6.0,8.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,13.0,8.0,4.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+albon,Alexander Albon,Williams,14.0,11.0,0.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,15.0,19.0,0.0,Retired,0.0,2023,15,Singapore Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,16.0,17.0,0.0,Retired,51.0,2023,15,Singapore Grand Prix,0
+piastri,Oscar Piastri,McLaren,17.0,7.0,6.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,14.0,0.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,19.0,12.0,0.0,Finished,62.0,2023,15,Singapore Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,53.0,2023,16,Japanese Grand Prix,1
+piastri,Oscar Piastri,McLaren,2.0,3.0,15.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+norris,Lando Norris,McLaren,3.0,2.0,18.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,19.0,0.0,Retired,15.0,2023,16,Japanese Grand Prix,0
+sainz,Carlos Sainz,Ferrari,6.0,6.0,8.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,5.0,10.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+russell,George Russell,Mercedes,8.0,7.0,6.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,9.0,12.0,0.0,Lapped,52.0,2023,16,Japanese Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,8.0,4.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+lawson,Liam Lawson,AlphaTauri,11.0,11.0,0.0,Lapped,52.0,2023,16,Japanese Grand Prix,0
+gasly,Pierre Gasly,Alpine,12.0,10.0,1.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+albon,Alexander Albon,Williams,13.0,16.0,0.0,Retired,26.0,2023,16,Japanese Grand Prix,0
+ocon,Esteban Ocon,Alpine,14.0,9.0,2.0,Finished,53.0,2023,16,Japanese Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,15.0,15.0,0.0,Lapped,52.0,2023,16,Japanese Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,16.0,20.0,0.0,Retired,7.0,2023,16,Japanese Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,18.0,0.0,Retired,20.0,2023,16,Japanese Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,18.0,14.0,0.0,Lapped,52.0,2023,16,Japanese Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,19.0,13.0,0.0,Lapped,52.0,2023,16,Japanese Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,17.0,0.0,Retired,22.0,2023,16,Japanese Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,57.0,2023,17,Qatar Grand Prix,1
+russell,George Russell,Mercedes,2.0,4.0,12.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,19.0,0.0,Retired,0.0,2023,17,Qatar Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,4.0,6.0,8.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,5.0,5.0,10.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+piastri,Oscar Piastri,McLaren,6.0,2.0,18.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+gasly,Pierre Gasly,Alpine,7.0,12.0,0.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,7.0,6.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,9.0,8.0,4.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+norris,Lando Norris,McLaren,10.0,3.0,15.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,11.0,15.0,0.0,Lapped,56.0,2023,17,Qatar Grand Prix,0
+sainz,Carlos Sainz,Ferrari,12.0,20.0,0.0,Did not start,0.0,2023,17,Qatar Grand Prix,0
+albon,Alexander Albon,Williams,13.0,13.0,0.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,14.0,16.0,0.0,Lapped,56.0,2023,17,Qatar Grand Prix,0
+sargeant,Logan Sargeant,Williams,15.0,18.0,0.0,Retired,40.0,2023,17,Qatar Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,11.0,0.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+lawson,Liam Lawson,AlphaTauri,17.0,17.0,0.0,Lapped,56.0,2023,17,Qatar Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,18.0,14.0,0.0,Lapped,56.0,2023,17,Qatar Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,19.0,9.0,2.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,20.0,10.0,1.0,Finished,57.0,2023,17,Qatar Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,20.0,0.0,Disqualified,56.0,2023,18,United States Grand Prix,0
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,56.0,2023,18,United States Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,19.0,0.0,Disqualified,56.0,2023,18,United States Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,3.0,15.0,Finished,56.0,2023,18,United States Grand Prix,0
+russell,George Russell,Mercedes,5.0,5.0,10.0,Finished,56.0,2023,18,United States Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,6.0,1.0,25.0,Finished,56.0,2023,18,United States Grand Prix,1
+gasly,Pierre Gasly,Alpine,7.0,6.0,8.0,Finished,56.0,2023,18,United States Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,18.0,0.0,Retired,6.0,2023,18,United States Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,4.0,12.0,Finished,56.0,2023,18,United States Grand Prix,0
+piastri,Oscar Piastri,McLaren,10.0,17.0,0.0,Retired,10.0,2023,18,United States Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,11.0,8.0,5.0,Finished,56.0,2023,18,United States Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,12.0,13.0,0.0,Lapped,55.0,2023,18,United States Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,13.0,12.0,0.0,Finished,56.0,2023,18,United States Grand Prix,0
+ricciardo,Daniel Ricciardo,AlphaTauri,14.0,15.0,0.0,Lapped,55.0,2023,18,United States Grand Prix,0
+albon,Alexander Albon,Williams,15.0,9.0,2.0,Finished,56.0,2023,18,United States Grand Prix,0
+sargeant,Logan Sargeant,Williams,16.0,10.0,1.0,Finished,56.0,2023,18,United States Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,14.0,0.0,Lapped,55.0,2023,18,United States Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,18.0,11.0,0.0,Finished,56.0,2023,18,United States Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,19.0,16.0,0.0,Retired,49.0,2023,18,United States Grand Prix,0
+stroll,Lance Stroll,Aston Martin,20.0,7.0,6.0,Finished,56.0,2023,18,United States Grand Prix,0
+stroll,Lance Stroll,Aston Martin,0.0,17.0,0.0,Collision damage,66.0,2023,19,Mexico City Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,3.0,15.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+sainz,Carlos Sainz,Ferrari,2.0,4.0,12.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,1.0,25.0,Finished,71.0,2023,19,Mexico City Grand Prix,1
+ricciardo,Daniel Ricciardo,AlphaTauri,4.0,7.0,6.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,20.0,0.0,Collision damage,1.0,2023,19,Mexico City Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,2.0,19.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+piastri,Oscar Piastri,McLaren,7.0,8.0,4.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+russell,George Russell,Mercedes,8.0,6.0,8.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,9.0,15.0,0.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,10.0,14.0,0.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+gasly,Pierre Gasly,Alpine,11.0,11.0,0.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,12.0,13.0,0.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,13.0,18.0,0.0,Withdrew,47.0,2023,19,Mexico City Grand Prix,0
+albon,Alexander Albon,Williams,14.0,9.0,2.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,10.0,1.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,19.0,0.0,Accident,31.0,2023,19,Mexico City Grand Prix,0
+norris,Lando Norris,McLaren,17.0,5.0,10.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,18.0,12.0,0.0,Finished,71.0,2023,19,Mexico City Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,16.0,0.0,Retired,70.0,2023,19,Mexico City Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,71.0,2023,20,São Paulo Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,20.0,0.0,Did not start,0.0,2023,20,São Paulo Grand Prix,0
+stroll,Lance Stroll,Aston Martin,3.0,5.0,10.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,4.0,3.0,15.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,8.0,4.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+norris,Lando Norris,McLaren,6.0,2.0,19.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+sainz,Carlos Sainz,Ferrari,7.0,6.0,8.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+russell,George Russell,Mercedes,8.0,15.0,0.0,Retired,57.0,2023,20,São Paulo Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,4.0,12.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+piastri,Oscar Piastri,McLaren,10.0,14.0,0.0,Lapped,69.0,2023,20,São Paulo Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,11.0,12.0,0.0,Lapped,70.0,2023,20,São Paulo Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,12.0,18.0,0.0,Retired,0.0,2023,20,São Paulo Grand Prix,0
+albon,Alexander Albon,Williams,13.0,19.0,0.0,Retired,0.0,2023,20,São Paulo Grand Prix,0
+ocon,Esteban Ocon,Alpine,14.0,10.0,1.0,Lapped,70.0,2023,20,São Paulo Grand Prix,0
+gasly,Pierre Gasly,Alpine,15.0,7.0,6.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,16.0,9.0,2.0,Finished,71.0,2023,20,São Paulo Grand Prix,0
+ricciardo,Daniel Ricciardo,AlphaTauri,17.0,13.0,0.0,Lapped,70.0,2023,20,São Paulo Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,18.0,16.0,0.0,Retired,39.0,2023,20,São Paulo Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,11.0,0.0,Lapped,70.0,2023,20,São Paulo Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,20.0,17.0,0.0,Retired,22.0,2023,20,São Paulo Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,2.0,18.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,50.0,2023,21,Las Vegas Grand Prix,1
+russell,George Russell,Mercedes,3.0,8.0,4.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+gasly,Pierre Gasly,Alpine,4.0,11.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+albon,Alexander Albon,Williams,5.0,12.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+sargeant,Logan Sargeant,Williams,6.0,16.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,7.0,17.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,8.0,13.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,9.0,9.0,2.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,10.0,7.0,6.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,11.0,3.0,15.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+sainz,Carlos Sainz,Ferrari,12.0,6.0,8.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,13.0,19.0,0.0,Retired,45.0,2023,21,Las Vegas Grand Prix,0
+ricciardo,Daniel Ricciardo,AlphaTauri,14.0,14.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+norris,Lando Norris,McLaren,15.0,20.0,0.0,Retired,2.0,2023,21,Las Vegas Grand Prix,0
+ocon,Esteban Ocon,Alpine,16.0,4.0,12.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,17.0,15.0,0.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+piastri,Oscar Piastri,McLaren,18.0,10.0,2.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,5.0,10.0,Finished,50.0,2023,21,Las Vegas Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,20.0,18.0,0.0,Retired,46.0,2023,21,Las Vegas Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,2.0,18.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,6.0,8.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+russell,George Russell,Mercedes,4.0,3.0,15.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+norris,Lando Norris,McLaren,5.0,5.0,10.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+tsunoda,Yuki Tsunoda,AlphaTauri,6.0,8.0,4.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,7.0,6.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,8.0,15.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,4.0,12.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,13.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,11.0,9.0,2.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,12.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,10.0,1.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+albon,Alexander Albon,Williams,14.0,14.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+ricciardo,Daniel Ricciardo,AlphaTauri,15.0,11.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+sainz,Carlos Sainz,Ferrari,16.0,18.0,0.0,Retired,57.0,2023,22,Abu Dhabi Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,20.0,0.0,Lapped,57.0,2023,22,Abu Dhabi Grand Prix,0
+bottas,Valtteri Bottas,Alfa Romeo,18.0,19.0,0.0,Lapped,57.0,2023,22,Abu Dhabi Grand Prix,0
+zhou,Guanyu Zhou,Alfa Romeo,19.0,17.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,16.0,0.0,Finished,58.0,2023,22,Abu Dhabi Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,57.0,2024,1,Bahrain Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,4.0,12.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+russell,George Russell,Mercedes,3.0,5.0,10.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,3.0,15.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,2.0,18.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,6.0,9.0,2.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+norris,Lando Norris,McLaren,7.0,6.0,8.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+piastri,Oscar Piastri,McLaren,8.0,8.0,4.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,9.0,7.0,6.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,16.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,11.0,14.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+stroll,Lance Stroll,Aston Martin,12.0,10.0,1.0,Finished,57.0,2024,1,Bahrain Grand Prix,0
+albon,Alexander Albon,Williams,13.0,15.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,14.0,13.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,15.0,12.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,19.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,17.0,11.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,20.0,0.0,Lapped,55.0,2024,1,Bahrain Grand Prix,0
+ocon,Esteban Ocon,Alpine,19.0,17.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+gasly,Pierre Gasly,Alpine,20.0,18.0,0.0,Lapped,56.0,2024,1,Bahrain Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,3.0,16.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,3.0,2.0,18.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,4.0,5.0,10.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,4.0,12.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+norris,Lando Norris,McLaren,6.0,8.0,4.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+russell,George Russell,Mercedes,7.0,6.0,8.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,8.0,9.0,2.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,9.0,15.0,0.0,Lapped,49.0,2024,2,Saudi Arabian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,10.0,19.0,0.0,Retired,5.0,2024,2,Saudi Arabian Grand Prix,0
+bearman,Oliver Bearman,Ferrari,11.0,7.0,6.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+albon,Alexander Albon,Williams,12.0,11.0,0.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,12.0,0.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,14.0,16.0,0.0,Lapped,49.0,2024,2,Saudi Arabian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,15.0,10.0,1.0,Finished,50.0,2024,2,Saudi Arabian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,17.0,0.0,Lapped,49.0,2024,2,Saudi Arabian Grand Prix,0
+ocon,Esteban Ocon,Alpine,17.0,13.0,0.0,Lapped,49.0,2024,2,Saudi Arabian Grand Prix,0
+gasly,Pierre Gasly,Alpine,18.0,20.0,0.0,Retired,1.0,2024,2,Saudi Arabian Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,14.0,0.0,Lapped,49.0,2024,2,Saudi Arabian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,20.0,18.0,0.0,Lapped,49.0,2024,2,Saudi Arabian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,19.0,0.0,Retired,3.0,2024,3,Australian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,2.0,1.0,25.0,Finished,58.0,2024,3,Australian Grand Prix,1
+norris,Lando Norris,McLaren,3.0,3.0,15.0,Finished,58.0,2024,3,Australian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,2.0,19.0,Finished,58.0,2024,3,Australian Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,4.0,12.0,Finished,58.0,2024,3,Australian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,6.0,5.0,10.0,Finished,58.0,2024,3,Australian Grand Prix,0
+russell,George Russell,Mercedes,7.0,17.0,0.0,Retired,56.0,2024,3,Australian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,8.0,7.0,6.0,Finished,58.0,2024,3,Australian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,9.0,6.0,8.0,Finished,58.0,2024,3,Australian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,8.0,4.0,Finished,58.0,2024,3,Australian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,11.0,18.0,0.0,Retired,15.0,2024,3,Australian Grand Prix,0
+albon,Alexander Albon,Williams,12.0,11.0,0.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,13.0,14.0,0.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,14.0,10.0,1.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,16.0,0.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,16.0,9.0,2.0,Finished,58.0,2024,3,Australian Grand Prix,0
+gasly,Pierre Gasly,Alpine,17.0,13.0,0.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,18.0,12.0,0.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,19.0,15.0,0.0,Lapped,57.0,2024,3,Australian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,26.0,Finished,53.0,2024,4,Japanese Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,2.0,2.0,18.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+norris,Lando Norris,McLaren,3.0,5.0,10.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,3.0,15.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,5.0,6.0,8.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+piastri,Oscar Piastri,McLaren,6.0,8.0,4.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,9.0,2.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,8.0,4.0,12.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+russell,George Russell,Mercedes,9.0,7.0,6.0,Finished,53.0,2024,4,Japanese Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,10.0,10.0,1.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,11.0,19.0,0.0,Retired,0.0,2024,4,Japanese Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,12.0,11.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,13.0,14.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+albon,Alexander Albon,Williams,14.0,20.0,0.0,Retired,0.0,2024,4,Japanese Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,15.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,12.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+gasly,Pierre Gasly,Alpine,17.0,16.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,18.0,13.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,17.0,0.0,Lapped,52.0,2024,4,Japanese Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,20.0,18.0,0.0,Retired,12.0,2024,4,Japanese Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,56.0,2024,5,Chinese Grand Prix,1
+perez,Sergio Perez,Red Bull Racing,2.0,3.0,15.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,3.0,7.0,7.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+norris,Lando Norris,McLaren,4.0,2.0,18.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,8.0,4.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,4.0,12.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+sainz,Carlos Sainz,Ferrari,7.0,5.0,10.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+russell,George Russell,Mercedes,8.0,6.0,8.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,9.0,10.0,1.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,10.0,20.0,0.0,Retired,19.0,2024,5,Chinese Grand Prix,0
+stroll,Lance Stroll,Aston Martin,11.0,15.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,12.0,18.0,0.0,Retired,33.0,2024,5,Chinese Grand Prix,0
+ocon,Esteban Ocon,Alpine,13.0,11.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+albon,Alexander Albon,Williams,14.0,12.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+gasly,Pierre Gasly,Alpine,15.0,13.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,16.0,14.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,16.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,18.0,9.0,2.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,19.0,19.0,0.0,Retired,26.0,2024,5,Chinese Grand Prix,0
+sargeant,Logan Sargeant,Williams,20.0,17.0,0.0,Finished,56.0,2024,5,Chinese Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,2.0,18.0,Finished,57.0,2024,6,Miami Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,2.0,3.0,15.0,Finished,57.0,2024,6,Miami Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,5.0,10.0,Finished,57.0,2024,6,Miami Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,4.0,12.0,Finished,57.0,2024,6,Miami Grand Prix,0
+norris,Lando Norris,McLaren,5.0,1.0,25.0,Finished,57.0,2024,6,Miami Grand Prix,1
+piastri,Oscar Piastri,McLaren,6.0,13.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+russell,George Russell,Mercedes,7.0,8.0,4.0,Finished,57.0,2024,6,Miami Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,8.0,6.0,8.0,Finished,57.0,2024,6,Miami Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,9.0,11.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,10.0,7.0,6.0,Finished,57.0,2024,6,Miami Grand Prix,0
+stroll,Lance Stroll,Aston Martin,11.0,17.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+gasly,Pierre Gasly,Alpine,12.0,12.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+ocon,Esteban Ocon,Alpine,13.0,10.0,1.0,Finished,57.0,2024,6,Miami Grand Prix,0
+albon,Alexander Albon,Williams,14.0,18.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,15.0,9.0,2.0,Finished,57.0,2024,6,Miami Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,16.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+sargeant,Logan Sargeant,Williams,17.0,20.0,0.0,Retired,27.0,2024,6,Miami Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,18.0,19.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,19.0,14.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,20.0,15.0,0.0,Finished,57.0,2024,6,Miami Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,1
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,3.0,15.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,5.0,10.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,4.0,12.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+russell,George Russell,Mercedes,6.0,7.0,7.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,7.0,10.0,1.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,8.0,6.0,8.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,9.0,13.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,11.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,11.0,8.0,4.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,14.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,9.0,2.0,Finished,63.0,2024,7,Emilia Romagna Grand Prix,0
+albon,Alexander Albon,Williams,14.0,20.0,0.0,Retired,51.0,2024,7,Emilia Romagna Grand Prix,0
+gasly,Pierre Gasly,Alpine,15.0,16.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,18.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,17.0,15.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,18.0,12.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,17.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,20.0,19.0,0.0,Lapped,62.0,2024,7,Emilia Romagna Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,1.0,25.0,Finished,78.0,2024,8,Monaco Grand Prix,1
+piastri,Oscar Piastri,McLaren,2.0,2.0,18.0,Finished,78.0,2024,8,Monaco Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,3.0,15.0,Finished,78.0,2024,8,Monaco Grand Prix,0
+norris,Lando Norris,McLaren,4.0,4.0,12.0,Finished,78.0,2024,8,Monaco Grand Prix,0
+russell,George Russell,Mercedes,5.0,5.0,10.0,Finished,78.0,2024,8,Monaco Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,6.0,6.0,8.0,Finished,78.0,2024,8,Monaco Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,7.0,7.0,Finished,78.0,2024,8,Monaco Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,8.0,8.0,4.0,Lapped,77.0,2024,8,Monaco Grand Prix,0
+albon,Alexander Albon,Williams,9.0,9.0,2.0,Lapped,77.0,2024,8,Monaco Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,10.0,1.0,Lapped,77.0,2024,8,Monaco Grand Prix,0
+ocon,Esteban Ocon,Alpine,11.0,17.0,0.0,Retired,0.0,2024,8,Monaco Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,12.0,12.0,0.0,Lapped,76.0,2024,8,Monaco Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,14.0,0.0,Lapped,76.0,2024,8,Monaco Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,14.0,11.0,0.0,Lapped,76.0,2024,8,Monaco Grand Prix,0
+sargeant,Logan Sargeant,Williams,15.0,15.0,0.0,Lapped,76.0,2024,8,Monaco Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,16.0,18.0,0.0,Retired,0.0,2024,8,Monaco Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,17.0,13.0,0.0,Lapped,76.0,2024,8,Monaco Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,18.0,16.0,0.0,Lapped,76.0,2024,8,Monaco Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,19.0,19.0,0.0,Retired,0.0,2024,8,Monaco Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,20.0,20.0,0.0,Retired,0.0,2024,8,Monaco Grand Prix,0
+russell,George Russell,Mercedes,1.0,3.0,15.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,70.0,2024,9,Canadian Grand Prix,1
+norris,Lando Norris,McLaren,3.0,2.0,18.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+piastri,Oscar Piastri,McLaren,4.0,5.0,10.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,5.0,8.0,4.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,6.0,6.0,8.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,7.0,4.0,13.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,8.0,14.0,0.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,9.0,7.0,6.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+albon,Alexander Albon,Williams,10.0,17.0,0.0,Retired,52.0,2024,9,Canadian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,11.0,19.0,0.0,Retired,40.0,2024,9,Canadian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,12.0,16.0,0.0,Retired,52.0,2024,9,Canadian Grand Prix,0
+sargeant,Logan Sargeant,Williams,13.0,20.0,0.0,Retired,23.0,2024,9,Canadian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,14.0,12.0,0.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+gasly,Pierre Gasly,Alpine,15.0,9.0,2.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,16.0,18.0,0.0,Retired,51.0,2024,9,Canadian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,17.0,11.0,0.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+ocon,Esteban Ocon,Alpine,18.0,10.0,1.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,19.0,13.0,0.0,Finished,70.0,2024,9,Canadian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,20.0,15.0,0.0,Lapped,69.0,2024,9,Canadian Grand Prix,0
+norris,Lando Norris,McLaren,1.0,2.0,19.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,66.0,2024,10,Spanish Grand Prix,1
+hamilton,Lewis Hamilton,Mercedes,3.0,3.0,15.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+russell,George Russell,Mercedes,4.0,4.0,12.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,5.0,5.0,10.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+sainz,Carlos Sainz,Ferrari,6.0,6.0,8.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+gasly,Pierre Gasly,Alpine,7.0,9.0,2.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+ocon,Esteban Ocon,Alpine,8.0,10.0,1.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+piastri,Oscar Piastri,McLaren,9.0,7.0,6.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,12.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,11.0,8.0,4.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,12.0,16.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,13.0,11.0,0.0,Finished,66.0,2024,10,Spanish Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,14.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,15.0,13.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,16.0,17.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,17.0,19.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,18.0,15.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,20.0,0.0,Lapped,64.0,2024,10,Spanish Grand Prix,0
+albon,Alexander Albon,Williams,20.0,18.0,0.0,Lapped,65.0,2024,10,Spanish Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,5.0,10.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+norris,Lando Norris,McLaren,2.0,20.0,0.0,Lapped,64.0,2024,11,Austrian Grand Prix,0
+russell,George Russell,Mercedes,3.0,1.0,25.0,Finished,71.0,2024,11,Austrian Grand Prix,1
+sainz,Carlos Sainz,Ferrari,4.0,3.0,15.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,4.0,12.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,11.0,0.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+piastri,Oscar Piastri,McLaren,7.0,2.0,18.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,8.0,7.0,6.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,9.0,6.0,8.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+ocon,Esteban Ocon,Alpine,10.0,12.0,0.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,11.0,9.0,2.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,12.0,8.0,4.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+gasly,Pierre Gasly,Alpine,13.0,10.0,1.0,Finished,71.0,2024,11,Austrian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,14.0,14.0,0.0,Lapped,70.0,2024,11,Austrian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,15.0,18.0,0.0,Lapped,70.0,2024,11,Austrian Grand Prix,0
+albon,Alexander Albon,Williams,16.0,15.0,0.0,Lapped,70.0,2024,11,Austrian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,13.0,0.0,Lapped,70.0,2024,11,Austrian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,18.0,16.0,0.0,Lapped,70.0,2024,11,Austrian Grand Prix,0
+sargeant,Logan Sargeant,Williams,19.0,19.0,0.0,Lapped,69.0,2024,11,Austrian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,20.0,17.0,0.0,Lapped,70.0,2024,11,Austrian Grand Prix,0
+russell,George Russell,Mercedes,1.0,19.0,0.0,Retired,33.0,2024,12,British Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,2.0,1.0,25.0,Finished,52.0,2024,12,British Grand Prix,1
+norris,Lando Norris,McLaren,3.0,3.0,15.0,Finished,52.0,2024,12,British Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,2.0,18.0,Finished,52.0,2024,12,British Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,4.0,12.0,Finished,52.0,2024,12,British Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,6.0,6.0,8.0,Finished,52.0,2024,12,British Grand Prix,0
+sainz,Carlos Sainz,Ferrari,7.0,5.0,11.0,Finished,52.0,2024,12,British Grand Prix,0
+stroll,Lance Stroll,Aston Martin,8.0,7.0,6.0,Finished,52.0,2024,12,British Grand Prix,0
+albon,Alexander Albon,Williams,9.0,9.0,2.0,Finished,52.0,2024,12,British Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,8.0,4.0,Finished,52.0,2024,12,British Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,11.0,14.0,0.0,Lapped,51.0,2024,12,British Grand Prix,0
+sargeant,Logan Sargeant,Williams,12.0,11.0,0.0,Finished,52.0,2024,12,British Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,13.0,10.0,1.0,Finished,52.0,2024,12,British Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,14.0,18.0,0.0,Lapped,50.0,2024,12,British Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,15.0,13.0,0.0,Lapped,51.0,2024,12,British Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,15.0,0.0,Lapped,51.0,2024,12,British Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,12.0,0.0,Finished,52.0,2024,12,British Grand Prix,0
+ocon,Esteban Ocon,Alpine,18.0,16.0,0.0,Lapped,50.0,2024,12,British Grand Prix,0
+gasly,Pierre Gasly,Alpine,19.0,20.0,0.0,Did not start,0.0,2024,12,British Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,20.0,17.0,0.0,Lapped,50.0,2024,12,British Grand Prix,0
+norris,Lando Norris,McLaren,1.0,2.0,18.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,1.0,25.0,Finished,70.0,2024,13,Hungarian Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,5.0,10.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,4.0,6.0,8.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,5.0,3.0,15.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,4.0,12.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,11.0,0.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,8.0,10.0,1.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,9.0,12.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,10.0,9.0,2.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,11.0,13.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,12.0,16.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+albon,Alexander Albon,Williams,13.0,14.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+sargeant,Logan Sargeant,Williams,14.0,17.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,15.0,15.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,16.0,7.0,6.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+russell,George Russell,Mercedes,17.0,8.0,5.0,Finished,70.0,2024,13,Hungarian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,18.0,19.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+ocon,Esteban Ocon,Alpine,19.0,18.0,0.0,Lapped,69.0,2024,13,Hungarian Grand Prix,0
+gasly,Pierre Gasly,Alpine,20.0,20.0,0.0,Retired,33.0,2024,13,Hungarian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,3.0,15.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,2.0,7.0,7.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,1.0,25.0,Finished,44.0,2024,14,Belgian Grand Prix,1
+norris,Lando Norris,McLaren,4.0,5.0,10.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,2.0,18.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+russell,George Russell,Mercedes,6.0,20.0,0.0,Disqualified,44.0,2024,14,Belgian Grand Prix,0
+sainz,Carlos Sainz,Ferrari,7.0,6.0,8.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,8.0,4.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+ocon,Esteban Ocon,Alpine,9.0,9.0,2.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+albon,Alexander Albon,Williams,10.0,12.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,11.0,4.0,12.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+gasly,Pierre Gasly,Alpine,12.0,13.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,13.0,10.0,1.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,14.0,15.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,11.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,16.0,18.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,17.0,14.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,17.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,19.0,19.0,0.0,Retired,5.0,2024,14,Belgian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,20.0,16.0,0.0,Finished,44.0,2024,14,Belgian Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,26.0,Finished,72.0,2024,15,Dutch Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,4.0,12.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+russell,George Russell,Mercedes,4.0,7.0,6.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,5.0,6.0,8.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,3.0,15.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,10.0,1.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+stroll,Lance Stroll,Aston Martin,8.0,13.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,9.0,2.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+sainz,Carlos Sainz,Ferrari,10.0,5.0,10.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,11.0,17.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,12.0,11.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,13.0,12.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,14.0,8.0,4.0,Finished,72.0,2024,15,Dutch Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,15.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,19.0,0.0,Lapped,70.0,2024,15,Dutch Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,17.0,20.0,0.0,Lapped,70.0,2024,15,Dutch Grand Prix,0
+sargeant,Logan Sargeant,Williams,18.0,16.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+albon,Alexander Albon,Williams,19.0,14.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,20.0,18.0,0.0,Lapped,71.0,2024,15,Dutch Grand Prix,0
+norris,Lando Norris,McLaren,1.0,3.0,16.0,Finished,53.0,2024,16,Italian Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,2.0,18.0,Finished,53.0,2024,16,Italian Grand Prix,0
+russell,George Russell,Mercedes,3.0,7.0,6.0,Finished,53.0,2024,16,Italian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,1.0,25.0,Finished,53.0,2024,16,Italian Grand Prix,1
+sainz,Carlos Sainz,Ferrari,5.0,4.0,12.0,Finished,53.0,2024,16,Italian Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,5.0,10.0,Finished,53.0,2024,16,Italian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,7.0,6.0,8.0,Finished,53.0,2024,16,Italian Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,8.0,8.0,4.0,Finished,53.0,2024,16,Italian Grand Prix,0
+albon,Alexander Albon,Williams,9.0,9.0,2.0,Finished,53.0,2024,16,Italian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,17.0,0.0,Lapped,52.0,2024,16,Italian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,11.0,11.0,0.0,Finished,53.0,2024,16,Italian Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,12.0,13.0,0.0,Finished,53.0,2024,16,Italian Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,13.0,10.0,1.0,Finished,53.0,2024,16,Italian Grand Prix,0
+gasly,Pierre Gasly,Alpine,14.0,15.0,0.0,Lapped,52.0,2024,16,Italian Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,14.0,0.0,Lapped,52.0,2024,16,Italian Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,16.0,20.0,0.0,Retired,7.0,2024,16,Italian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,19.0,0.0,Lapped,52.0,2024,16,Italian Grand Prix,0
+colapinto,Franco Colapinto,Williams,18.0,12.0,0.0,Finished,53.0,2024,16,Italian Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,19.0,16.0,0.0,Lapped,52.0,2024,16,Italian Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,20.0,18.0,0.0,Lapped,52.0,2024,16,Italian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,2.0,18.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,1.0,25.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,1
+sainz,Carlos Sainz,Ferrari,3.0,18.0,0.0,Retired,49.0,2024,17,Azerbaijan Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,4.0,17.0,0.0,Retired,49.0,2024,17,Azerbaijan Grand Prix,0
+russell,George Russell,Mercedes,5.0,3.0,15.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,6.0,5.0,10.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,6.0,8.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+colapinto,Franco Colapinto,Williams,8.0,8.0,4.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+albon,Alexander Albon,Williams,9.0,7.0,6.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,10.0,10.0,1.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,11.0,20.0,0.0,Retired,14.0,2024,17,Azerbaijan Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,12.0,11.0,0.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,19.0,0.0,Retired,45.0,2024,17,Azerbaijan Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,14.0,13.0,0.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+norris,Lando Norris,McLaren,15.0,4.0,13.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,16.0,0.0,Lapped,50.0,2024,17,Azerbaijan Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,17.0,14.0,0.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+gasly,Pierre Gasly,Alpine,18.0,12.0,0.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,19.0,9.0,2.0,Finished,51.0,2024,17,Azerbaijan Grand Prix,0
+ocon,Esteban Ocon,Alpine,20.0,15.0,0.0,Lapped,50.0,2024,17,Azerbaijan Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,62.0,2024,18,Singapore Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,62.0,2024,18,Singapore Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,3.0,6.0,8.0,Finished,62.0,2024,18,Singapore Grand Prix,0
+russell,George Russell,Mercedes,4.0,4.0,12.0,Finished,62.0,2024,18,Singapore Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,3.0,15.0,Finished,62.0,2024,18,Singapore Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,6.0,9.0,2.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,8.0,4.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,8.0,12.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,9.0,5.0,10.0,Finished,62.0,2024,18,Singapore Grand Prix,0
+sainz,Carlos Sainz,Ferrari,10.0,7.0,6.0,Finished,62.0,2024,18,Singapore Grand Prix,0
+albon,Alexander Albon,Williams,11.0,20.0,0.0,Retired,15.0,2024,18,Singapore Grand Prix,0
+colapinto,Franco Colapinto,Williams,12.0,11.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,13.0,10.0,1.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,14.0,19.0,0.0,Retired,57.0,2024,18,Singapore Grand Prix,0
+ocon,Esteban Ocon,Alpine,15.0,13.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+ricciardo,Daniel Ricciardo,RB,16.0,18.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,14.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+gasly,Pierre Gasly,Alpine,18.0,17.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,19.0,16.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,20.0,15.0,0.0,Lapped,61.0,2024,18,Singapore Grand Prix,0
+norris,Lando Norris,McLaren,1.0,4.0,12.0,Finished,56.0,2024,19,United States Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,3.0,15.0,Finished,56.0,2024,19,United States Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,2.0,18.0,Finished,56.0,2024,19,United States Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,1.0,25.0,Finished,56.0,2024,19,United States Grand Prix,1
+piastri,Oscar Piastri,McLaren,5.0,5.0,10.0,Finished,56.0,2024,19,United States Grand Prix,0
+gasly,Pierre Gasly,Alpine,6.0,12.0,0.0,Finished,56.0,2024,19,United States Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,13.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,8.0,11.0,0.0,Finished,56.0,2024,19,United States Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,7.0,6.0,Finished,56.0,2024,19,United States Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,10.0,14.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,11.0,8.0,4.0,Finished,56.0,2024,19,United States Grand Prix,0
+ocon,Esteban Ocon,Alpine,12.0,18.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,15.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+albon,Alexander Albon,Williams,14.0,16.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+colapinto,Franco Colapinto,Williams,15.0,10.0,1.0,Finished,56.0,2024,19,United States Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,16.0,17.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,17.0,20.0,0.0,Retired,1.0,2024,19,United States Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,18.0,19.0,0.0,Lapped,55.0,2024,19,United States Grand Prix,0
+lawson,Liam Lawson,RB,19.0,9.0,2.0,Finished,56.0,2024,19,United States Grand Prix,0
+russell,George Russell,Mercedes,20.0,6.0,8.0,Finished,56.0,2024,19,United States Grand Prix,0
+ocon,Esteban Ocon,Alpine,0.0,13.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+sainz,Carlos Sainz,Ferrari,1.0,1.0,25.0,Finished,71.0,2024,20,Mexico City Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,6.0,8.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+norris,Lando Norris,McLaren,3.0,2.0,18.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,3.0,16.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+russell,George Russell,Mercedes,5.0,5.0,10.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,4.0,12.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,7.0,7.0,6.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+gasly,Pierre Gasly,Alpine,8.0,10.0,1.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+albon,Alexander Albon,Williams,9.0,19.0,0.0,Retired,0.0,2024,20,Mexico City Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,10.0,9.0,2.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,11.0,20.0,0.0,Retired,0.0,2024,20,Mexico City Grand Prix,0
+lawson,Liam Lawson,RB,12.0,16.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,13.0,18.0,0.0,Retired,15.0,2024,20,Mexico City Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,11.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,15.0,14.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+colapinto,Franco Colapinto,Williams,16.0,12.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+piastri,Oscar Piastri,McLaren,17.0,8.0,4.0,Finished,71.0,2024,20,Mexico City Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,18.0,17.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,19.0,15.0,0.0,Lapped,70.0,2024,20,Mexico City Grand Prix,0
+norris,Lando Norris,McLaren,1.0,6.0,8.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+russell,George Russell,Mercedes,2.0,4.0,12.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,3.0,7.0,6.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+ocon,Esteban Ocon,Alpine,4.0,2.0,18.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+lawson,Liam Lawson,RB,5.0,9.0,2.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,5.0,10.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+albon,Alexander Albon,Williams,7.0,18.0,0.0,Did not start,0.0,2024,21,São Paulo Grand Prix,0
+piastri,Oscar Piastri,McLaren,8.0,8.0,4.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,9.0,14.0,0.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+stroll,Lance Stroll,Aston Martin,10.0,19.0,0.0,Did not start,0.0,2024,21,São Paulo Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,11.0,13.0,0.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,12.0,11.0,0.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+gasly,Pierre Gasly,Alpine,13.0,3.0,15.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,14.0,10.0,1.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,15.0,12.0,0.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+colapinto,Franco Colapinto,Williams,16.0,17.0,0.0,Retired,30.0,2024,21,São Paulo Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,17.0,1.0,26.0,Finished,69.0,2024,21,São Paulo Grand Prix,1
+hulkenberg,Nico Hulkenberg,Haas F1 Team,18.0,20.0,0.0,Disqualified,0.0,2024,21,São Paulo Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,19.0,15.0,0.0,Finished,69.0,2024,21,São Paulo Grand Prix,0
+sainz,Carlos Sainz,Ferrari,20.0,16.0,0.0,Retired,38.0,2024,21,São Paulo Grand Prix,0
+russell,George Russell,Mercedes,1.0,1.0,25.0,Finished,50.0,2024,22,Las Vegas Grand Prix,1
+sainz,Carlos Sainz,Ferrari,2.0,3.0,15.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+gasly,Pierre Gasly,Alpine,3.0,20.0,0.0,Retired,15.0,2024,22,Las Vegas Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,5.0,5.0,10.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+norris,Lando Norris,McLaren,6.0,6.0,9.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,7.0,9.0,2.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+piastri,Oscar Piastri,McLaren,8.0,7.0,6.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,9.0,8.0,4.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,10.0,2.0,18.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+ocon,Esteban Ocon,Alpine,11.0,17.0,0.0,Lapped,49.0,2024,22,Las Vegas Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,12.0,12.0,0.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,13.0,13.0,0.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+lawson,Liam Lawson,RB,14.0,16.0,0.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,15.0,10.0,1.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,16.0,11.0,0.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+albon,Alexander Albon,Williams,17.0,19.0,0.0,Retired,25.0,2024,22,Las Vegas Grand Prix,0
+stroll,Lance Stroll,Aston Martin,18.0,15.0,0.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,19.0,18.0,0.0,Lapped,49.0,2024,22,Las Vegas Grand Prix,0
+colapinto,Franco Colapinto,Williams,20.0,14.0,0.0,Finished,50.0,2024,22,Las Vegas Grand Prix,0
+russell,George Russell,Mercedes,1.0,4.0,12.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,57.0,2024,23,Qatar Grand Prix,1
+norris,Lando Norris,McLaren,3.0,10.0,2.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+piastri,Oscar Piastri,McLaren,4.0,3.0,15.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,5.0,2.0,18.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,6.0,12.0,0.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+sainz,Carlos Sainz,Ferrari,7.0,6.0,8.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,7.0,6.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,9.0,17.0,0.0,Retired,38.0,2024,23,Qatar Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,10.0,9.0,2.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+gasly,Pierre Gasly,Alpine,11.0,5.0,10.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,12.0,8.0,4.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,13.0,11.0,0.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,14.0,13.0,0.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,18.0,0.0,Retired,8.0,2024,23,Qatar Grand Prix,0
+albon,Alexander Albon,Williams,16.0,15.0,0.0,Lapped,56.0,2024,23,Qatar Grand Prix,0
+lawson,Liam Lawson,RB,17.0,14.0,0.0,Finished,57.0,2024,23,Qatar Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,18.0,16.0,0.0,Retired,39.0,2024,23,Qatar Grand Prix,0
+colapinto,Franco Colapinto,Williams,19.0,19.0,0.0,Retired,0.0,2024,23,Qatar Grand Prix,0
+ocon,Esteban Ocon,Alpine,20.0,20.0,0.0,Retired,0.0,2024,23,Qatar Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,1
+piastri,Oscar Piastri,McLaren,2.0,10.0,1.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+sainz,Carlos Sainz,Ferrari,3.0,2.0,18.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,6.0,8.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+gasly,Pierre Gasly,Alpine,5.0,7.0,6.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+russell,George Russell,Mercedes,6.0,5.0,10.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+hulkenberg,Nico Hulkenberg,Haas F1 Team,7.0,8.0,4.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,9.0,2.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+bottas,Valtteri Bottas,Kick Sauber,9.0,18.0,0.0,Retired,30.0,2024,24,Abu Dhabi Grand Prix,0
+perez,Sergio Perez,Red Bull Racing,10.0,20.0,0.0,Retired,0.0,2024,24,Abu Dhabi Grand Prix,0
+tsunoda,Yuki Tsunoda,RB,11.0,12.0,0.0,Lapped,57.0,2024,24,Abu Dhabi Grand Prix,0
+lawson,Liam Lawson,RB,12.0,17.0,0.0,Retired,55.0,2024,24,Abu Dhabi Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,14.0,0.0,Lapped,57.0,2024,24,Abu Dhabi Grand Prix,0
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,14.0,16.0,0.0,Lapped,57.0,2024,24,Abu Dhabi Grand Prix,0
+zhou,Guanyu Zhou,Kick Sauber,15.0,13.0,0.0,Lapped,57.0,2024,24,Abu Dhabi Grand Prix,0
+hamilton,Lewis Hamilton,Mercedes,16.0,4.0,12.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+doohan,Jack Doohan,Alpine,17.0,15.0,0.0,Lapped,57.0,2024,24,Abu Dhabi Grand Prix,0
+albon,Alexander Albon,Williams,18.0,11.0,0.0,Lapped,57.0,2024,24,Abu Dhabi Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,19.0,3.0,15.0,Finished,58.0,2024,24,Abu Dhabi Grand Prix,0
+colapinto,Franco Colapinto,Williams,20.0,19.0,0.0,Retired,26.0,2024,24,Abu Dhabi Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,57.0,2025,1,Australian Grand Prix,1
+piastri,Oscar Piastri,McLaren,2.0,9.0,2.0,Finished,57.0,2025,1,Australian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,2.0,18.0,Finished,57.0,2025,1,Australian Grand Prix,0
+russell,George Russell,Mercedes,4.0,3.0,15.0,Finished,57.0,2025,1,Australian Grand Prix,0
+tsunoda,Yuki Tsunoda,Racing Bulls,5.0,12.0,0.0,Finished,57.0,2025,1,Australian Grand Prix,0
+albon,Alexander Albon,Williams,6.0,5.0,10.0,Finished,57.0,2025,1,Australian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,7.0,8.0,4.0,Finished,57.0,2025,1,Australian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,8.0,10.0,1.0,Finished,57.0,2025,1,Australian Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,11.0,0.0,Finished,57.0,2025,1,Australian Grand Prix,0
+sainz,Carlos Sainz,Williams,10.0,18.0,0.0,Retired,0.0,2025,1,Australian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,11.0,20.0,0.0,Retired,0.0,2025,1,Australian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,12.0,17.0,0.0,Retired,32.0,2025,1,Australian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,13.0,6.0,8.0,Finished,57.0,2025,1,Australian Grand Prix,0
+doohan,Jack Doohan,Alpine,14.0,19.0,0.0,Retired,0.0,2025,1,Australian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,15.0,16.0,0.0,Retired,45.0,2025,1,Australian Grand Prix,0
+antonelli,Andrea Kimi Antonelli,Mercedes,16.0,4.0,12.0,Finished,57.0,2025,1,Australian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,17.0,7.0,6.0,Finished,57.0,2025,1,Australian Grand Prix,0
+lawson,Liam Lawson,Red Bull Racing,18.0,15.0,0.0,Retired,46.0,2025,1,Australian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,19.0,13.0,0.0,Finished,57.0,2025,1,Australian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,20.0,14.0,0.0,Finished,57.0,2025,1,Australian Grand Prix,0
+piastri,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,56.0,2025,2,Chinese Grand Prix,1
+russell,George Russell,Mercedes,2.0,3.0,15.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+norris,Lando Norris,McLaren,3.0,2.0,18.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,5.0,19.0,0.0,Disqualified,0.0,2025,2,Chinese Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,18.0,0.0,Disqualified,0.0,2025,2,Chinese Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,7.0,11.0,0.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,8.0,6.0,8.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+tsunoda,Yuki Tsunoda,Racing Bulls,9.0,16.0,0.0,Lapped,55.0,2025,2,Chinese Grand Prix,0
+albon,Alexander Albon,Williams,10.0,7.0,6.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,11.0,5.0,10.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,12.0,15.0,0.0,Lapped,55.0,2025,2,Chinese Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,13.0,17.0,0.0,Retired,4.0,2025,2,Chinese Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,9.0,2.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+sainz,Carlos Sainz,Williams,15.0,10.0,1.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+gasly,Pierre Gasly,Alpine,16.0,20.0,0.0,Disqualified,0.0,2025,2,Chinese Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,17.0,8.0,4.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+doohan,Jack Doohan,Alpine,18.0,13.0,0.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,19.0,14.0,0.0,Lapped,55.0,2025,2,Chinese Grand Prix,0
+lawson,Liam Lawson,Red Bull Racing,20.0,12.0,0.0,Finished,56.0,2025,2,Chinese Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,53.0,2025,3,Japanese Grand Prix,1
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,3.0,15.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+russell,George Russell,Mercedes,5.0,5.0,10.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,6.0,6.0,8.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,7.0,8.0,4.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,8.0,7.0,6.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+albon,Alexander Albon,Williams,9.0,9.0,2.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,10.0,10.0,1.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+gasly,Pierre Gasly,Alpine,11.0,13.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,12.0,11.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,13.0,17.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,14.0,12.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+sainz,Carlos Sainz,Williams,15.0,14.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,16.0,16.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,17.0,19.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,18.0,18.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+doohan,Jack Doohan,Alpine,19.0,15.0,0.0,Finished,53.0,2025,3,Japanese Grand Prix,0
+stroll,Lance Stroll,Aston Martin,20.0,20.0,0.0,Lapped,52.0,2025,3,Japanese Grand Prix,0
+piastri,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,57.0,2025,4,Bahrain Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,4.0,12.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+russell,George Russell,Mercedes,3.0,2.0,18.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+gasly,Pierre Gasly,Alpine,4.0,7.0,6.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,5.0,11.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+norris,Lando Norris,McLaren,6.0,3.0,15.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,7.0,6.0,8.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+sainz,Carlos Sainz,Williams,8.0,19.0,0.0,Retired,45.0,2025,4,Bahrain Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,9.0,5.0,10.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,10.0,9.0,2.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+doohan,Jack Doohan,Alpine,11.0,14.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,12.0,13.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,13.0,15.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,14.0,8.0,4.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+albon,Alexander Albon,Williams,15.0,12.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,16.0,20.0,0.0,Disqualified,0.0,2025,4,Bahrain Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,17.0,16.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,18.0,18.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,17.0,0.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,20.0,10.0,1.0,Finished,57.0,2025,4,Bahrain Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,2.0,18.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,1.0,25.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,1
+russell,George Russell,Mercedes,3.0,5.0,10.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,3.0,15.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,5.0,6.0,8.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+sainz,Carlos Sainz,Williams,6.0,8.0,4.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,7.0,7.0,6.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,8.0,19.0,0.0,Retired,1.0,2025,5,Saudi Arabian Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,20.0,0.0,Retired,0.0,2025,5,Saudi Arabian Grand Prix,0
+norris,Lando Norris,McLaren,10.0,4.0,12.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+albon,Alexander Albon,Williams,11.0,9.0,2.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,12.0,12.0,0.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,13.0,11.0,0.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,14.0,10.0,1.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,15.0,13.0,0.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,16.0,0.0,Lapped,49.0,2025,5,Saudi Arabian Grand Prix,0
+doohan,Jack Doohan,Alpine,17.0,17.0,0.0,Lapped,49.0,2025,5,Saudi Arabian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,18.0,15.0,0.0,Lapped,49.0,2025,5,Saudi Arabian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,19.0,14.0,0.0,Finished,50.0,2025,5,Saudi Arabian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,20.0,18.0,0.0,Lapped,49.0,2025,5,Saudi Arabian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,4.0,12.0,Finished,57.0,2025,6,Miami Grand Prix,0
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,57.0,2025,6,Miami Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,3.0,6.0,8.0,Finished,57.0,2025,6,Miami Grand Prix,0
+piastri,Oscar Piastri,McLaren,4.0,1.0,25.0,Finished,57.0,2025,6,Miami Grand Prix,1
+russell,George Russell,Mercedes,5.0,3.0,15.0,Finished,57.0,2025,6,Miami Grand Prix,0
+sainz,Carlos Sainz,Williams,6.0,9.0,2.0,Finished,57.0,2025,6,Miami Grand Prix,0
+albon,Alexander Albon,Williams,7.0,5.0,10.0,Finished,57.0,2025,6,Miami Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,8.0,7.0,6.0,Finished,57.0,2025,6,Miami Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,9.0,12.0,0.0,Finished,57.0,2025,6,Miami Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,10.0,10.0,1.0,Finished,57.0,2025,6,Miami Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,11.0,11.0,0.0,Finished,57.0,2025,6,Miami Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,12.0,8.0,4.0,Finished,57.0,2025,6,Miami Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,13.0,18.0,0.0,Retired,30.0,2025,6,Miami Grand Prix,0
+doohan,Jack Doohan,Alpine,14.0,20.0,0.0,Retired,0.0,2025,6,Miami Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,15.0,17.0,0.0,Retired,36.0,2025,6,Miami Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,16.0,14.0,0.0,Lapped,56.0,2025,6,Miami Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,17.0,15.0,0.0,Lapped,56.0,2025,6,Miami Grand Prix,0
+stroll,Lance Stroll,Aston Martin,18.0,16.0,0.0,Lapped,56.0,2025,6,Miami Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,19.0,19.0,0.0,Retired,27.0,2025,6,Miami Grand Prix,0
+gasly,Pierre Gasly,Alpine,20.0,13.0,0.0,Finished,57.0,2025,6,Miami Grand Prix,0
+piastri,Oscar Piastri,McLaren,1.0,3.0,15.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,1
+russell,George Russell,Mercedes,3.0,7.0,6.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+norris,Lando Norris,McLaren,4.0,2.0,18.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,5.0,11.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+sainz,Carlos Sainz,Williams,6.0,8.0,4.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+albon,Alexander Albon,Williams,7.0,5.0,10.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+stroll,Lance Stroll,Aston Martin,8.0,15.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,9.0,9.0,2.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,13.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,11.0,6.0,8.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,12.0,4.0,12.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,13.0,19.0,0.0,Retired,44.0,2025,7,Emilia Romagna Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,14.0,18.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,15.0,14.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+colapinto,Franco Colapinto,Alpine,16.0,16.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,17.0,12.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,18.0,20.0,0.0,Retired,27.0,2025,7,Emilia Romagna Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,19.0,17.0,0.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,20.0,10.0,1.0,Finished,63.0,2025,7,Emilia Romagna Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,78.0,2025,8,Monaco Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,2.0,18.0,Finished,78.0,2025,8,Monaco Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,3.0,15.0,Finished,78.0,2025,8,Monaco Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,78.0,2025,8,Monaco Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,5.0,6.0,8.0,Lapped,77.0,2025,8,Monaco Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,6.0,19.0,0.0,Retired,36.0,2025,8,Monaco Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,7.0,5.0,10.0,Finished,78.0,2025,8,Monaco Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,8.0,7.0,6.0,Lapped,77.0,2025,8,Monaco Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,9.0,8.0,4.0,Lapped,77.0,2025,8,Monaco Grand Prix,0
+albon,Alexander Albon,Williams,10.0,9.0,2.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+sainz,Carlos Sainz,Williams,11.0,10.0,1.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,12.0,17.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,13.0,16.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+russell,George Russell,Mercedes,14.0,11.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,15.0,18.0,0.0,Lapped,75.0,2025,8,Monaco Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,16.0,14.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+gasly,Pierre Gasly,Alpine,17.0,20.0,0.0,Retired,7.0,2025,8,Monaco Grand Prix,0
+colapinto,Franco Colapinto,Alpine,18.0,13.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,15.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,20.0,12.0,0.0,Lapped,76.0,2025,8,Monaco Grand Prix,0
+piastri,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,66.0,2025,9,Spanish Grand Prix,1
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,10.0,1.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+russell,George Russell,Mercedes,4.0,4.0,12.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,5.0,6.0,8.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,6.0,18.0,0.0,Retired,53.0,2025,9,Spanish Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,7.0,3.0,15.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+gasly,Pierre Gasly,Alpine,8.0,8.0,4.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,9.0,7.0,6.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,9.0,2.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+albon,Alexander Albon,Williams,11.0,19.0,0.0,Retired,27.0,2025,9,Spanish Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,12.0,12.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,13.0,11.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,14.0,17.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,15.0,5.0,10.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,16.0,16.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+sainz,Carlos Sainz,Williams,17.0,14.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+colapinto,Franco Colapinto,Alpine,18.0,15.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,19.0,13.0,0.0,Finished,66.0,2025,9,Spanish Grand Prix,0
+russell,George Russell,Mercedes,1.0,1.0,25.0,Finished,70.0,2025,10,Canadian Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,4.0,12.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,4.0,3.0,15.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,5.0,6.0,8.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,6.0,7.0,6.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+norris,Lando Norris,McLaren,7.0,18.0,0.0,Retired,66.0,2025,10,Canadian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,8.0,5.0,10.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+albon,Alexander Albon,Williams,9.0,20.0,0.0,Retired,46.0,2025,10,Canadian Grand Prix,0
+colapinto,Franco Colapinto,Alpine,10.0,13.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,11.0,8.0,4.0,Finished,70.0,2025,10,Canadian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,12.0,16.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,13.0,11.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,14.0,9.0,2.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,15.0,14.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+sainz,Carlos Sainz,Williams,16.0,10.0,1.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,17.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,18.0,12.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,19.0,19.0,0.0,Retired,53.0,2025,10,Canadian Grand Prix,0
+gasly,Pierre Gasly,Alpine,20.0,15.0,0.0,Lapped,69.0,2025,10,Canadian Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,70.0,2025,11,Austrian Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,3.0,15.0,Finished,70.0,2025,11,Austrian Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,2.0,18.0,Finished,70.0,2025,11,Austrian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,4.0,4.0,12.0,Finished,70.0,2025,11,Austrian Grand Prix,0
+russell,George Russell,Mercedes,5.0,5.0,10.0,Finished,70.0,2025,11,Austrian Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,6.0,6.0,8.0,Finished,70.0,2025,11,Austrian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,7.0,18.0,0.0,Retired,0.0,2025,11,Austrian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,8.0,8.0,4.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,9.0,19.0,0.0,Retired,0.0,2025,11,Austrian Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,13.0,0.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,11.0,7.0,6.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+albon,Alexander Albon,Williams,12.0,17.0,0.0,Retired,15.0,2025,11,Austrian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,13.0,12.0,0.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+colapinto,Franco Colapinto,Alpine,14.0,15.0,0.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,15.0,11.0,0.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,14.0,0.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,17.0,10.0,1.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,18.0,16.0,0.0,Lapped,68.0,2025,11,Austrian Grand Prix,0
+sainz,Carlos Sainz,Williams,19.0,20.0,0.0,Did not start,0.0,2025,11,Austrian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,20.0,9.0,2.0,Lapped,69.0,2025,11,Austrian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,5.0,10.0,Finished,52.0,2025,12,British Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,2.0,18.0,Finished,52.0,2025,12,British Grand Prix,0
+norris,Lando Norris,McLaren,3.0,1.0,25.0,Finished,52.0,2025,12,British Grand Prix,1
+russell,George Russell,Mercedes,4.0,10.0,1.0,Finished,52.0,2025,12,British Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,5.0,4.0,12.0,Finished,52.0,2025,12,British Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,14.0,0.0,Finished,52.0,2025,12,British Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,9.0,2.0,Finished,52.0,2025,12,British Grand Prix,0
+gasly,Pierre Gasly,Alpine,8.0,6.0,8.0,Finished,52.0,2025,12,British Grand Prix,0
+sainz,Carlos Sainz,Williams,9.0,12.0,0.0,Finished,52.0,2025,12,British Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,10.0,16.0,0.0,Retired,23.0,2025,12,British Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,11.0,15.0,0.0,Lapped,51.0,2025,12,British Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,12.0,17.0,0.0,Retired,17.0,2025,12,British Grand Prix,0
+albon,Alexander Albon,Williams,13.0,8.0,4.0,Finished,52.0,2025,12,British Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,14.0,13.0,0.0,Finished,52.0,2025,12,British Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,15.0,19.0,0.0,Retired,0.0,2025,12,British Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,16.0,18.0,0.0,Retired,3.0,2025,12,British Grand Prix,0
+stroll,Lance Stroll,Aston Martin,17.0,7.0,6.0,Finished,52.0,2025,12,British Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,18.0,11.0,0.0,Finished,52.0,2025,12,British Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,19.0,3.0,15.0,Finished,52.0,2025,12,British Grand Prix,0
+colapinto,Franco Colapinto,Alpine,20.0,20.0,0.0,Did not start,0.0,2025,12,British Grand Prix,0
+norris,Lando Norris,McLaren,1.0,2.0,18.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,1.0,25.0,Finished,44.0,2025,13,Belgian Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,3.0,3.0,15.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+albon,Alexander Albon,Williams,5.0,6.0,8.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+russell,George Russell,Mercedes,6.0,5.0,10.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,7.0,13.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,8.0,20.0,0.0,Lapped,43.0,2025,13,Belgian Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,9.0,8.0,4.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,10.0,9.0,2.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,11.0,15.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,12.0,11.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+gasly,Pierre Gasly,Alpine,13.0,10.0,1.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,14.0,12.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+colapinto,Franco Colapinto,Alpine,15.0,19.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,14.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+sainz,Carlos Sainz,Williams,17.0,18.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,18.0,7.0,6.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,19.0,16.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,20.0,17.0,0.0,Finished,44.0,2025,13,Belgian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,1.0,4.0,12.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+piastri,Oscar Piastri,McLaren,2.0,2.0,18.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+norris,Lando Norris,McLaren,3.0,1.0,25.0,Finished,70.0,2025,14,Hungarian Grand Prix,1
+russell,George Russell,Mercedes,4.0,3.0,15.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,5.0,5.0,10.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,6.0,7.0,6.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,7.0,6.0,8.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,8.0,9.0,2.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,9.0,8.0,4.0,Finished,70.0,2025,14,Hungarian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,10.0,11.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,11.0,20.0,0.0,Retired,48.0,2025,14,Hungarian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,12.0,12.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+sainz,Carlos Sainz,Williams,13.0,14.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+colapinto,Franco Colapinto,Alpine,14.0,18.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,15.0,10.0,1.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+gasly,Pierre Gasly,Alpine,16.0,19.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,17.0,16.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,18.0,13.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+albon,Alexander Albon,Williams,19.0,15.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,20.0,17.0,0.0,Lapped,69.0,2025,14,Hungarian Grand Prix,0
+piastri,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,72.0,2025,15,Dutch Grand Prix,1
+norris,Lando Norris,McLaren,2.0,18.0,0.0,Retired,64.0,2025,15,Dutch Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,2.0,18.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,4.0,3.0,15.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+russell,George Russell,Mercedes,5.0,4.0,12.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,6.0,19.0,0.0,Retired,52.0,2025,15,Dutch Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,7.0,20.0,0.0,Retired,22.0,2025,15,Dutch Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,8.0,12.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+sainz,Carlos Sainz,Williams,9.0,13.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,8.0,4.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,11.0,16.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,12.0,9.0,2.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,13.0,15.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+gasly,Pierre Gasly,Alpine,14.0,17.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+albon,Alexander Albon,Williams,15.0,5.0,10.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+colapinto,Franco Colapinto,Alpine,16.0,11.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,17.0,14.0,0.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,18.0,10.0,1.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,7.0,6.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,20.0,6.0,8.0,Finished,72.0,2025,15,Dutch Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,53.0,2025,16,Italian Grand Prix,1
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,53.0,2025,16,Italian Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,3.0,15.0,Finished,53.0,2025,16,Italian Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,53.0,2025,16,Italian Grand Prix,0
+russell,George Russell,Mercedes,5.0,5.0,10.0,Finished,53.0,2025,16,Italian Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,6.0,9.0,2.0,Finished,53.0,2025,16,Italian Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,7.0,8.0,4.0,Finished,53.0,2025,16,Italian Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,19.0,0.0,Retired,24.0,2025,16,Italian Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,9.0,13.0,0.0,Finished,53.0,2025,16,Italian Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,10.0,6.0,8.0,Finished,53.0,2025,16,Italian Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,11.0,12.0,0.0,Finished,53.0,2025,16,Italian Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,12.0,20.0,0.0,Did not start,0.0,2025,16,Italian Grand Prix,0
+sainz,Carlos Sainz,Williams,13.0,11.0,0.0,Finished,53.0,2025,16,Italian Grand Prix,0
+albon,Alexander Albon,Williams,14.0,7.0,6.0,Finished,53.0,2025,16,Italian Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,15.0,15.0,0.0,Lapped,52.0,2025,16,Italian Grand Prix,0
+stroll,Lance Stroll,Aston Martin,16.0,18.0,0.0,Lapped,52.0,2025,16,Italian Grand Prix,0
+colapinto,Franco Colapinto,Alpine,17.0,17.0,0.0,Lapped,52.0,2025,16,Italian Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,18.0,14.0,0.0,Finished,53.0,2025,16,Italian Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,19.0,10.0,1.0,Finished,53.0,2025,16,Italian Grand Prix,0
+gasly,Pierre Gasly,Alpine,20.0,16.0,0.0,Lapped,52.0,2025,16,Italian Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,1
+sainz,Carlos Sainz,Williams,2.0,3.0,15.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,3.0,5.0,10.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,4.0,4.0,12.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+russell,George Russell,Mercedes,5.0,2.0,18.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,6.0,6.0,8.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+norris,Lando Norris,McLaren,7.0,7.0,6.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,8.0,10.0,1.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+piastri,Oscar Piastri,McLaren,9.0,20.0,0.0,Retired,0.0,2025,17,Azerbaijan Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,10.0,9.0,2.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,11.0,15.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,12.0,8.0,4.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,13.0,11.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,17.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,15.0,12.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+colapinto,Franco Colapinto,Alpine,16.0,19.0,0.0,Lapped,50.0,2025,17,Azerbaijan Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,17.0,16.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+gasly,Pierre Gasly,Alpine,18.0,18.0,0.0,Lapped,50.0,2025,17,Azerbaijan Grand Prix,0
+albon,Alexander Albon,Williams,19.0,13.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,20.0,14.0,0.0,Finished,51.0,2025,17,Azerbaijan Grand Prix,0
+russell,George Russell,Mercedes,1.0,1.0,25.0,Finished,62.0,2025,18,Singapore Grand Prix,1
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,4.0,12.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,4.0,5.0,10.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+norris,Lando Norris,McLaren,5.0,3.0,15.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,6.0,8.0,4.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,7.0,6.0,8.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,8.0,11.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,9.0,9.0,2.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,7.0,6.0,Finished,62.0,2025,18,Singapore Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,11.0,20.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,12.0,15.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,13.0,12.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,14.0,17.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,13.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+colapinto,Franco Colapinto,Alpine,16.0,16.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,17.0,18.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+sainz,Carlos Sainz,Williams,18.0,10.0,1.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+gasly,Pierre Gasly,Alpine,19.0,19.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+albon,Alexander Albon,Williams,20.0,14.0,0.0,Lapped,61.0,2025,18,Singapore Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,56.0,2025,19,United States Grand Prix,1
+norris,Lando Norris,McLaren,2.0,2.0,18.0,Finished,56.0,2025,19,United States Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,3.0,15.0,Finished,56.0,2025,19,United States Grand Prix,0
+russell,George Russell,Mercedes,4.0,6.0,8.0,Finished,56.0,2025,19,United States Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,5.0,4.0,12.0,Finished,56.0,2025,19,United States Grand Prix,0
+piastri,Oscar Piastri,McLaren,6.0,5.0,10.0,Finished,56.0,2025,19,United States Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,7.0,13.0,0.0,Finished,56.0,2025,19,United States Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,8.0,9.0,2.0,Finished,56.0,2025,19,United States Grand Prix,0
+sainz,Carlos Sainz,Williams,9.0,20.0,0.0,Retired,5.0,2025,19,United States Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,10.0,10.0,1.0,Finished,56.0,2025,19,United States Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,11.0,8.0,4.0,Finished,56.0,2025,19,United States Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,12.0,11.0,0.0,Finished,56.0,2025,19,United States Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,13.0,7.0,6.0,Finished,56.0,2025,19,United States Grand Prix,0
+gasly,Pierre Gasly,Alpine,14.0,19.0,0.0,Lapped,55.0,2025,19,United States Grand Prix,0
+colapinto,Franco Colapinto,Alpine,15.0,17.0,0.0,Lapped,55.0,2025,19,United States Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,16.0,18.0,0.0,Lapped,55.0,2025,19,United States Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,17.0,15.0,0.0,Finished,56.0,2025,19,United States Grand Prix,0
+albon,Alexander Albon,Williams,18.0,14.0,0.0,Finished,56.0,2025,19,United States Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,12.0,0.0,Finished,56.0,2025,19,United States Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,20.0,16.0,0.0,Finished,56.0,2025,19,United States Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,71.0,2025,20,Mexico City Grand Prix,1
+leclerc,Charles Leclerc,Ferrari,2.0,2.0,18.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,3.0,8.0,4.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+russell,George Russell,Mercedes,4.0,7.0,6.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,5.0,3.0,15.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,6.0,6.0,8.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+piastri,Oscar Piastri,McLaren,7.0,5.0,10.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,8.0,13.0,0.0,Lapped,70.0,2025,20,Mexico City Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,9.0,4.0,12.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,10.0,11.0,0.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,11.0,9.0,2.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+sainz,Carlos Sainz,Williams,12.0,17.0,0.0,Retired,67.0,2025,20,Mexico City Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,13.0,19.0,0.0,Retired,25.0,2025,20,Mexico City Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,14.0,18.0,0.0,Retired,34.0,2025,20,Mexico City Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,15.0,20.0,0.0,Retired,5.0,2025,20,Mexico City Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,16.0,10.0,1.0,Finished,71.0,2025,20,Mexico City Grand Prix,0
+albon,Alexander Albon,Williams,17.0,12.0,0.0,Lapped,70.0,2025,20,Mexico City Grand Prix,0
+gasly,Pierre Gasly,Alpine,18.0,15.0,0.0,Lapped,70.0,2025,20,Mexico City Grand Prix,0
+stroll,Lance Stroll,Aston Martin,19.0,14.0,0.0,Lapped,70.0,2025,20,Mexico City Grand Prix,0
+colapinto,Franco Colapinto,Alpine,20.0,16.0,0.0,Lapped,70.0,2025,20,Mexico City Grand Prix,0
+norris,Lando Norris,McLaren,1.0,1.0,25.0,Finished,71.0,2025,21,São Paulo Grand Prix,1
+antonelli,Kimi Antonelli,Mercedes,2.0,2.0,18.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,3.0,19.0,0.0,Retired,5.0,2025,21,São Paulo Grand Prix,0
+piastri,Oscar Piastri,McLaren,4.0,5.0,10.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,5.0,8.0,4.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+russell,George Russell,Mercedes,6.0,4.0,12.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,7.0,7.0,6.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,8.0,6.0,8.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,10.0,1.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,10.0,9.0,2.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,11.0,14.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+albon,Alexander Albon,Williams,12.0,11.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,13.0,18.0,0.0,Retired,37.0,2025,21,São Paulo Grand Prix,0
+stroll,Lance Stroll,Aston Martin,14.0,16.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+sainz,Carlos Sainz,Williams,15.0,13.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+colapinto,Franco Colapinto,Alpine,16.0,15.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,17.0,17.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,18.0,20.0,0.0,Retired,0.0,2025,21,São Paulo Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,19.0,3.0,15.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,20.0,12.0,0.0,Finished,71.0,2025,21,São Paulo Grand Prix,0
+norris,Lando Norris,McLaren,1.0,19.0,0.0,Disqualified,50.0,2025,22,Las Vegas Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,50.0,2025,22,Las Vegas Grand Prix,1
+sainz,Carlos Sainz,Williams,3.0,5.0,10.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+russell,George Russell,Mercedes,4.0,2.0,18.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+piastri,Oscar Piastri,McLaren,5.0,20.0,0.0,Disqualified,50.0,2025,22,Las Vegas Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,6.0,14.0,0.0,Lapped,49.0,2025,22,Las Vegas Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,7.0,11.0,0.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,8.0,6.0,8.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,9.0,4.0,12.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+gasly,Pierre Gasly,Alpine,10.0,13.0,0.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,11.0,7.0,6.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+stroll,Lance Stroll,Aston Martin,12.0,18.0,0.0,Retired,0.0,2025,22,Las Vegas Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,13.0,9.0,2.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,14.0,10.0,1.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+colapinto,Franco Colapinto,Alpine,15.0,15.0,0.0,Lapped,49.0,2025,22,Las Vegas Grand Prix,0
+albon,Alexander Albon,Williams,16.0,16.0,0.0,Retired,35.0,2025,22,Las Vegas Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,17.0,3.0,15.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,18.0,17.0,0.0,Retired,2.0,2025,22,Las Vegas Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,19.0,8.0,4.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,20.0,12.0,0.0,Finished,50.0,2025,22,Las Vegas Grand Prix,0
+piastri,Oscar Piastri,McLaren,1.0,2.0,18.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+norris,Lando Norris,McLaren,2.0,4.0,12.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,3.0,1.0,25.0,Finished,57.0,2025,23,Qatar Grand Prix,1
+russell,George Russell,Mercedes,4.0,6.0,8.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,5.0,5.0,10.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,6.0,18.0,0.0,Retired,55.0,2025,23,Qatar Grand Prix,0
+sainz,Carlos Sainz,Williams,7.0,3.0,15.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,8.0,7.0,6.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+gasly,Pierre Gasly,Alpine,9.0,16.0,0.0,Lapped,56.0,2025,23,Qatar Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,10.0,8.0,4.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,11.0,20.0,0.0,Retired,6.0,2025,23,Qatar Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,12.0,9.0,2.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,13.0,19.0,0.0,Retired,41.0,2025,23,Qatar Grand Prix,0
+albon,Alexander Albon,Williams,14.0,11.0,0.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,15.0,10.0,1.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,16.0,15.0,0.0,Lapped,56.0,2025,23,Qatar Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,17.0,12.0,0.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+stroll,Lance Stroll,Aston Martin,18.0,17.0,0.0,Retired,55.0,2025,23,Qatar Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,19.0,13.0,0.0,Finished,57.0,2025,23,Qatar Grand Prix,0
+colapinto,Franco Colapinto,Alpine,20.0,14.0,0.0,Lapped,56.0,2025,23,Qatar Grand Prix,0
+max_verstappen,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,1
+norris,Lando Norris,McLaren,2.0,3.0,15.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+piastri,Oscar Piastri,McLaren,3.0,2.0,18.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+russell,George Russell,Mercedes,4.0,5.0,10.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+leclerc,Charles Leclerc,Ferrari,5.0,4.0,12.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+alonso,Fernando Alonso,Aston Martin,6.0,6.0,8.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+bortoleto,Gabriel Bortoleto,Kick Sauber,7.0,11.0,0.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+ocon,Esteban Ocon,Haas F1 Team,8.0,7.0,6.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+hadjar,Isack Hadjar,Racing Bulls,9.0,17.0,0.0,Lapped,57.0,2025,24,Abu Dhabi Grand Prix,0
+tsunoda,Yuki Tsunoda,Red Bull Racing,10.0,14.0,0.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+bearman,Oliver Bearman,Haas F1 Team,11.0,12.0,0.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+sainz,Carlos Sainz,Williams,12.0,13.0,0.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+lawson,Liam Lawson,Racing Bulls,13.0,18.0,0.0,Lapped,57.0,2025,24,Abu Dhabi Grand Prix,0
+antonelli,Kimi Antonelli,Mercedes,14.0,15.0,0.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+stroll,Lance Stroll,Aston Martin,15.0,10.0,1.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+hamilton,Lewis Hamilton,Ferrari,16.0,8.0,4.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+albon,Alexander Albon,Williams,17.0,16.0,0.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+hulkenberg,Nico Hulkenberg,Kick Sauber,18.0,9.0,2.0,Finished,58.0,2025,24,Abu Dhabi Grand Prix,0
+gasly,Pierre Gasly,Alpine,19.0,19.0,0.0,Lapped,57.0,2025,24,Abu Dhabi Grand Prix,0
+colapinto,Franco Colapinto,Alpine,20.0,20.0,0.0,Lapped,57.0,2025,24,Abu Dhabi Grand Prix,0
