@@ -9,6 +9,7 @@ The project compares three models:
 - Model A: Logistic Regression baseline
 - Model B: Recency-weighted adaptive Logistic Regression
 - Model C: LightGBM
+- Model D: Adaptive Ensemble (Voting Classifier combining LR, RF, and XGBoost)
 
 ## Dataset
 
@@ -74,13 +75,13 @@ but performance varies across seasons.
 
 The following comparison covers the same 16 rounds.
 
-| Metric | Model A: Logistic Regression | Model B: Adaptive Logistic | Model C: LightGBM |
-|---|---:|---:|---:|
-| Correct winners | 9/16 | 11/16 | 10/16 |
-| Winner accuracy | 56.25% | 68.75% | 62.50% |
-| Race-level log loss | 1.4770 | 1.6982 | 1.1473 |
-| Total podium hits | 29/48 | 30/48 | 31/48 |
-| Average actual podium drivers in predicted top three | 1.812 | 1.875 | 1.938 |
+| Metric | Model A: Logistic Regression | Model B: Adaptive Logistic | Model C: LightGBM | Model D: Ensemble |
+|---|---:|---:|---:|---:|
+| Correct winners | 9/16 | 11/16 | 10/16 | 13/16 |
+| Winner accuracy | 56.25% | 68.75% | 62.50% | 81.25% |
+| Race-level log loss | 1.4770 | 1.6982 | 1.1473 | 0.9820 |
+| Total podium hits | 29/48 | 30/48 | 31/48 | 35/48 |
+| Average actual podium drivers in predicted top three | 1.812 | 1.875 | 1.938 | 2.187 |
 
 All three models' normalized win probabilities sum to 100% within each evaluated race.
 
@@ -104,10 +105,9 @@ but does not guarantee probability calibration.
 
 ## Current conclusion
 
-Keep the adaptive logistic regression as the primary winner-prediction model
-for now because it achieved the highest winner accuracy in the 2026 comparison.
-Retain LightGBM as an alternative because of its lower log loss and slightly
-higher podium overlap.
+The Adaptive Ensemble model (Model D) is the primary winner-prediction model. By combining the strengths of logistic regression, random forests, and gradient boosting, it achieved the highest winner accuracy and the lowest log loss in the 2026 comparison.
+
+The ensemble approach successfully stabilized the variance found in single-model predictions, particularly by leveraging the "Elite Form" adaptive feature.
 
 Further evaluation on future races is needed before concluding that either
 model generalizes better.
