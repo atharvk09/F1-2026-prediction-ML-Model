@@ -74,8 +74,8 @@ Result: CORRECT WINNER PREDICTION 🎯
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/f1-race-predictor.git
-cd f1-race-predictor
+git clone https://github.com/atharvk09/F1-2026-prediction-ML-model.git
+cd F1-2026-prediction-ML-model
 pip install -r requirements.txt
 ```
 
