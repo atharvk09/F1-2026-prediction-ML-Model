@@ -72,6 +72,7 @@ python src/predict.py
 ```
 
 **Sample Output:**
+
 ```text
 🏆 PREDICTED WINNER PROBABILITIES:
 Pos   Driver   Team                  Probability
