@@ -40,6 +40,9 @@ I transitioned this project from exploratory notebooks to a modular software arc
 
 Instead of chasing a "perfect" accuracy score, I focused on **Rigorous Validation**.
 
+### The "Blind Test" Success:
+**The model successfully predicted the winner of the Austin GP before the race took place**, demonstrating that the adaptive features and ensemble logic generalize effectively to unseen data and are not just overfitting to historical trends.
+
 ### Visual Evidence:
 ![Model Comparison](./results/model_comparison.png)
 *Figure 1: The evolution of accuracy from the baseline model to the final ensemble.*
